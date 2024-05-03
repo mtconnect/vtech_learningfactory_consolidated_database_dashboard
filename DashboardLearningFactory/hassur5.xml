@@ -1,0 +1,2073 @@
+<MTConnectStreams xmlns:m="urn:mtconnect.org:MTConnectStreams:1.7" xmlns="urn:mtconnect.org:MTConnectStreams:1.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mtconnect.org:MTConnectStreams:1.7 /schemas/MTConnectStreams_1.7.xsd">
+  
+  <Header creationTime="2024-02-27T18:39:04Z" sender="LF-Server-01" instanceId="1700457668" version="1.8.0.3" deviceModelChangeTime="2023-11-20T05:21:08.240950Z" bufferSize="131072" nextSequence="958671" firstSequence="957671" lastSequence="1088742" />
+  
+  <Streams>
+    
+    <DeviceStream name="VMC-3Axis" uuid="HAAS-VF3">
+      
+      <ComponentStream component="Rotary" name="A" componentId="ar">
+        
+        <Samples>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="957858" subType="ACTUAL" timestamp="2022-01-06T19:57:13.855198Z">94</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="957866" subType="ACTUAL" timestamp="2022-01-06T19:57:16.023847Z">90</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958489" subType="ACTUAL" timestamp="2022-01-06T20:00:43.07041Z">-6.1077</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958496" subType="ACTUAL" timestamp="2022-01-06T20:00:44.999016Z">0</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958512" subType="ACTUAL" timestamp="2022-01-06T20:00:58.644756Z">90</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958541" subType="ACTUAL" timestamp="2022-01-06T20:02:01.002369Z">9</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958547" subType="ACTUAL" timestamp="2022-01-06T20:02:02.97024Z">90</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958568" subType="ACTUAL" timestamp="2022-01-06T20:03:59.677802Z">58.470001</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958569" subType="ACTUAL" timestamp="2022-01-06T20:04:01.711153Z">21.931</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958571" subType="ACTUAL" timestamp="2022-01-06T20:04:03.817195Z">-14.592</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958572" subType="ACTUAL" timestamp="2022-01-06T20:04:05.902661Z">-48.582001</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958574" subType="ACTUAL" timestamp="2022-01-06T20:04:08.107131Z">-76.949997</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958576" subType="ACTUAL" timestamp="2022-01-06T20:04:10.092508Z">-77</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958578" subType="ACTUAL" timestamp="2022-01-06T20:04:19.862761Z">-82.452003</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958579" subType="ACTUAL" timestamp="2022-01-06T20:04:21.836517Z">-45.941002</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958581" subType="ACTUAL" timestamp="2022-01-06T20:04:23.794606Z">-9.437</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958582" subType="ACTUAL" timestamp="2022-01-06T20:04:25.81373Z">27.082001</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958583" subType="ACTUAL" timestamp="2022-01-06T20:04:28.103795Z">63.602001</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958584" subType="ACTUAL" timestamp="2022-01-06T20:04:30.346886Z">93.5</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958599" subType="ACTUAL" timestamp="2022-01-06T20:05:22.312319Z">0</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958602" subType="ACTUAL" timestamp="2022-01-06T20:05:24.438829Z">93.5</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958612" subType="ACTUAL" timestamp="2022-01-06T20:06:16.370115Z">93.500004</Angle>
+          
+          <Angle dataItemId="aposm" name="aMachine" sequence="958614" subType="ACTUAL" timestamp="2022-01-06T20:06:18.378326Z">93.5</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957684" subType="ACTUAL" timestamp="2022-01-06T19:56:08.785824Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957690" subType="ACTUAL" timestamp="2022-01-06T19:56:11.065063Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957701" subType="ACTUAL" timestamp="2022-01-06T19:56:15.398502Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957708" subType="ACTUAL" timestamp="2022-01-06T19:56:17.61271Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957724" subType="ACTUAL" timestamp="2022-01-06T19:56:24.276537Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957730" subType="ACTUAL" timestamp="2022-01-06T19:56:26.520112Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957740" subType="ACTUAL" timestamp="2022-01-06T19:56:30.916629Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957747" subType="ACTUAL" timestamp="2022-01-06T19:56:33.094764Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957764" subType="ACTUAL" timestamp="2022-01-06T19:56:39.724076Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957771" subType="ACTUAL" timestamp="2022-01-06T19:56:41.91251Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957782" subType="ACTUAL" timestamp="2022-01-06T19:56:46.273287Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957788" subType="ACTUAL" timestamp="2022-01-06T19:56:48.440623Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957807" subType="ACTUAL" timestamp="2022-01-06T19:56:54.958264Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957814" subType="ACTUAL" timestamp="2022-01-06T19:56:57.121383Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957825" subType="ACTUAL" timestamp="2022-01-06T19:57:01.578631Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957831" subType="ACTUAL" timestamp="2022-01-06T19:57:03.919593Z">-8.8618</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957839" subType="ACTUAL" timestamp="2022-01-06T19:57:06.05185Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957855" subType="ACTUAL" timestamp="2022-01-06T19:57:12.669063Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957870" subType="ACTUAL" timestamp="2022-01-06T19:57:16.951058Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957882" subType="ACTUAL" timestamp="2022-01-06T19:57:21.483626Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957888" subType="ACTUAL" timestamp="2022-01-06T19:57:23.706915Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957896" subType="ACTUAL" timestamp="2022-01-06T19:57:26.058605Z">UNAVAILABLE</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957901" subType="ACTUAL" timestamp="2022-01-06T19:57:28.335084Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957908" subType="ACTUAL" timestamp="2022-01-06T19:57:30.49787Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957914" subType="ACTUAL" timestamp="2022-01-06T19:57:32.644991Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957928" subType="ACTUAL" timestamp="2022-01-06T19:57:37.096891Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957933" subType="ACTUAL" timestamp="2022-01-06T19:57:39.29921Z">-8.861204</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957938" subType="ACTUAL" timestamp="2022-01-06T19:57:41.446065Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957944" subType="ACTUAL" timestamp="2022-01-06T19:57:43.681717Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957970" subType="ACTUAL" timestamp="2022-01-06T19:57:52.510779Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957978" subType="ACTUAL" timestamp="2022-01-06T19:57:54.72957Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957984" subType="ACTUAL" timestamp="2022-01-06T19:57:56.912197Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957990" subType="ACTUAL" timestamp="2022-01-06T19:57:59.137978Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="957997" subType="ACTUAL" timestamp="2022-01-06T19:58:01.367537Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958009" subType="ACTUAL" timestamp="2022-01-06T19:58:05.621051Z">-8.8643</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958016" subType="ACTUAL" timestamp="2022-01-06T19:58:07.824844Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958027" subType="ACTUAL" timestamp="2022-01-06T19:58:12.24093Z">-8.8613</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958034" subType="ACTUAL" timestamp="2022-01-06T19:58:14.457498Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958047" subType="ACTUAL" timestamp="2022-01-06T19:58:21.034516Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958059" subType="ACTUAL" timestamp="2022-01-06T19:58:25.396364Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958066" subType="ACTUAL" timestamp="2022-01-06T19:58:27.730969Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958079" subType="ACTUAL" timestamp="2022-01-06T19:58:32.233863Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958086" subType="ACTUAL" timestamp="2022-01-06T19:58:34.497568Z">-8.8668</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958093" subType="ACTUAL" timestamp="2022-01-06T19:58:36.655251Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958100" subType="ACTUAL" timestamp="2022-01-06T19:58:38.878918Z">-8.8653</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958107" subType="ACTUAL" timestamp="2022-01-06T19:58:40.961494Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958126" subType="ACTUAL" timestamp="2022-01-06T19:58:47.69296Z">-8.8691</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958139" subType="ACTUAL" timestamp="2022-01-06T19:58:52.124565Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958147" subType="ACTUAL" timestamp="2022-01-06T19:58:54.323033Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958154" subType="ACTUAL" timestamp="2022-01-06T19:58:56.547231Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958161" subType="ACTUAL" timestamp="2022-01-06T19:58:58.925415Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958168" subType="ACTUAL" timestamp="2022-01-06T19:59:01.156076Z">-8.8691</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958175" subType="ACTUAL" timestamp="2022-01-06T19:59:03.339337Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958188" subType="ACTUAL" timestamp="2022-01-06T19:59:07.68916Z">-8.8617</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958194" subType="ACTUAL" timestamp="2022-01-06T19:59:09.896943Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958205" subType="ACTUAL" timestamp="2022-01-06T19:59:14.303755Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958218" subType="ACTUAL" timestamp="2022-01-06T19:59:18.78538Z">-8.8646</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958225" subType="ACTUAL" timestamp="2022-01-06T19:59:20.96213Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958231" subType="ACTUAL" timestamp="2022-01-06T19:59:23.02827Z">-8.8612</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958238" subType="ACTUAL" timestamp="2022-01-06T19:59:25.08444Z">-8.8687</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958245" subType="ACTUAL" timestamp="2022-01-06T19:59:27.444492Z">-8.8615</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958252" subType="ACTUAL" timestamp="2022-01-06T19:59:29.760073Z">-8.8692</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958282" subType="ACTUAL" timestamp="2022-01-06T19:59:40.398159Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958289" subType="ACTUAL" timestamp="2022-01-06T19:59:42.450021Z">-8.6739</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958297" subType="ACTUAL" timestamp="2022-01-06T19:59:44.589337Z">-8.8598</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958304" subType="ACTUAL" timestamp="2022-01-06T19:59:46.676757Z">-8.8678</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958310" subType="ACTUAL" timestamp="2022-01-06T19:59:48.840101Z">-8.8615</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958317" subType="ACTUAL" timestamp="2022-01-06T19:59:50.917879Z">-8.8678</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958324" subType="ACTUAL" timestamp="2022-01-06T19:59:53.066445Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958332" subType="ACTUAL" timestamp="2022-01-06T19:59:55.226028Z">-8.8523</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958350" subType="ACTUAL" timestamp="2022-01-06T20:00:01.604921Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958357" subType="ACTUAL" timestamp="2022-01-06T20:00:03.538177Z">-8.8323</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958371" subType="ACTUAL" timestamp="2022-01-06T20:00:07.430303Z">-8.8244</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958377" subType="ACTUAL" timestamp="2022-01-06T20:00:09.358118Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958383" subType="ACTUAL" timestamp="2022-01-06T20:00:11.291019Z">-8.7772</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958390" subType="ACTUAL" timestamp="2022-01-06T20:00:13.200175Z">-8.8043</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958403" subType="ACTUAL" timestamp="2022-01-06T20:00:17.087129Z">-8.7848</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958409" subType="ACTUAL" timestamp="2022-01-06T20:00:19.040296Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958415" subType="ACTUAL" timestamp="2022-01-06T20:00:20.978267Z">-8.7923</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958427" subType="ACTUAL" timestamp="2022-01-06T20:00:24.833626Z">-8.7843</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958433" subType="ACTUAL" timestamp="2022-01-06T20:00:26.802892Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958440" subType="ACTUAL" timestamp="2022-01-06T20:00:28.778131Z">-8.7723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958447" subType="ACTUAL" timestamp="2022-01-06T20:00:30.691079Z">-8.7643</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958459" subType="ACTUAL" timestamp="2022-01-06T20:00:34.561843Z">-7.1723</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958465" subType="ACTUAL" timestamp="2022-01-06T20:00:36.521052Z">-8.6697</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958472" subType="ACTUAL" timestamp="2022-01-06T20:00:38.40412Z">-8.7443</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958484" subType="ACTUAL" timestamp="2022-01-06T20:00:41.952416Z">-18.972099</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958492" subType="ACTUAL" timestamp="2022-01-06T20:00:43.945779Z">-18.978001</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958499" subType="ACTUAL" timestamp="2022-01-06T20:00:45.868851Z">-13.7989</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958507" subType="ACTUAL" timestamp="2022-01-06T20:00:49.7086Z">-5.0843</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958516" subType="ACTUAL" timestamp="2022-01-06T20:00:59.520637Z">0</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958573" subType="ACTUAL" timestamp="2022-01-06T20:04:06.863992Z">0.04</Angle>
+          
+          <Angle dataItemId="aposw" name="aWork" sequence="958575" subType="ACTUAL" timestamp="2022-01-06T20:04:09.004058Z">0</Angle>
+          
+        </Samples>
+        
+      </ComponentStream>
+      
+      <ComponentStream component="Rotary" name="S" componentId="sr">
+        
+        <Samples>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958485" subType="ACTUAL" timestamp="2022-01-06T20:00:42.303599Z">93.431999</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958517" subType="ACTUAL" timestamp="2022-01-06T20:00:59.876988Z">278.178986</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958519" subType="ACTUAL" timestamp="2022-01-06T20:01:01.877071Z">295.799011</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958521" subType="ACTUAL" timestamp="2022-01-06T20:01:03.824066Z">331.026001</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958522" subType="ACTUAL" timestamp="2022-01-06T20:01:05.750843Z">366.237</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958523" subType="ACTUAL" timestamp="2022-01-06T20:01:07.831731Z">401.447998</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958524" subType="ACTUAL" timestamp="2022-01-06T20:01:10.141131Z">436.660004</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958525" subType="ACTUAL" timestamp="2022-01-06T20:01:12.209731Z">445.075989</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958527" subType="ACTUAL" timestamp="2022-01-06T20:01:14.296703Z">409.90799</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958528" subType="ACTUAL" timestamp="2022-01-06T20:01:16.583734Z">374.73999</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958529" subType="ACTUAL" timestamp="2022-01-06T20:01:18.883111Z">339.540985</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958530" subType="ACTUAL" timestamp="2022-01-06T20:01:21.179982Z">304.358002</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958531" subType="ACTUAL" timestamp="2022-01-06T20:01:23.34553Z">284.651001</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958566" subType="ACTUAL" timestamp="2022-01-06T20:03:53.150268Z">271.050995</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958603" subType="ACTUAL" timestamp="2022-01-06T20:05:31.746587Z">271.0509</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958606" subType="ACTUAL" timestamp="2022-01-06T20:05:33.749639Z">271.050995</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958620" subType="ACTUAL" timestamp="2022-01-06T20:07:01.687513Z">UNAVAILABLE</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958621" subType="ACTUAL" timestamp="2022-01-06T20:07:03.665188Z">271.050995</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958623" subType="ACTUAL" timestamp="2022-01-06T20:07:07.69217Z">271.05</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958625" subType="ACTUAL" timestamp="2022-01-06T20:07:09.710649Z">271.050995</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958634" subType="ACTUAL" timestamp="2022-01-06T20:07:37.771768Z">271.150995</RotaryVelocity>
+          
+          <RotaryVelocity dataItemId="ss" name="spindleSpeed" sequence="958636" subType="ACTUAL" timestamp="2022-01-06T20:07:39.760197Z">271.050995</RotaryVelocity>
+          
+        </Samples>
+        
+      </ComponentStream>
+      
+      <ComponentStream component="Linear" name="X" componentId="x">
+        
+        <Samples>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957675" subType="ACTUAL" timestamp="2022-01-06T19:56:05.071937Z">3.3837</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957679" subType="ACTUAL" timestamp="2022-01-06T19:56:07.137047Z">2.7799</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957685" subType="ACTUAL" timestamp="2022-01-06T19:56:09.355425Z">4.0826</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957691" subType="ACTUAL" timestamp="2022-01-06T19:56:11.619496Z">3.314</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957695" subType="ACTUAL" timestamp="2022-01-06T19:56:13.824982Z">3.1653</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957702" subType="ACTUAL" timestamp="2022-01-06T19:56:15.97834Z">3.5902</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957709" subType="ACTUAL" timestamp="2022-01-06T19:56:18.202639Z">3.3605</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957714" subType="ACTUAL" timestamp="2022-01-06T19:56:20.47088Z">3.1981</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957718" subType="ACTUAL" timestamp="2022-01-06T19:56:22.611928Z">2.7514</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957725" subType="ACTUAL" timestamp="2022-01-06T19:56:24.841133Z">4.0826</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957731" subType="ACTUAL" timestamp="2022-01-06T19:56:27.125241Z">3.1152</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957735" subType="ACTUAL" timestamp="2022-01-06T19:56:29.292923Z">2.8867</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957741" subType="ACTUAL" timestamp="2022-01-06T19:56:31.476126Z">3.5956</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957748" subType="ACTUAL" timestamp="2022-01-06T19:56:33.720196Z">3.2352</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957754" subType="ACTUAL" timestamp="2022-01-06T19:56:35.893434Z">3.003</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957758" subType="ACTUAL" timestamp="2022-01-06T19:56:38.125769Z">2.6895</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957765" subType="ACTUAL" timestamp="2022-01-06T19:56:40.303878Z">3.9726</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957772" subType="ACTUAL" timestamp="2022-01-06T19:56:42.487178Z">2.9198</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957777" subType="ACTUAL" timestamp="2022-01-06T19:56:44.731371Z">2.7006</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957783" subType="ACTUAL" timestamp="2022-01-06T19:56:46.878339Z">3.3667</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957789" subType="ACTUAL" timestamp="2022-01-06T19:56:48.989921Z">2.993</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957795" subType="ACTUAL" timestamp="2022-01-06T19:56:51.157178Z">2.8015</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957800" subType="ACTUAL" timestamp="2022-01-06T19:56:53.349397Z">2.5922</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957808" subType="ACTUAL" timestamp="2022-01-06T19:56:55.52288Z">3.6794</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957815" subType="ACTUAL" timestamp="2022-01-06T19:56:57.72636Z">2.7189</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957820" subType="ACTUAL" timestamp="2022-01-06T19:56:59.949718Z">2.4186</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957826" subType="ACTUAL" timestamp="2022-01-06T19:57:02.260869Z">2.7834</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957833" subType="ACTUAL" timestamp="2022-01-06T19:57:04.494297Z">2.6308</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957840" subType="ACTUAL" timestamp="2022-01-06T19:57:06.662152Z">2.4782</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957845" subType="ACTUAL" timestamp="2022-01-06T19:57:08.814011Z">2.107</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957850" subType="ACTUAL" timestamp="2022-01-06T19:57:11.04457Z">2.144</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957856" subType="ACTUAL" timestamp="2022-01-06T19:57:13.264563Z">2.4662</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957863" subType="ACTUAL" timestamp="2022-01-06T19:57:15.442938Z">2.4445</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957871" subType="ACTUAL" timestamp="2022-01-06T19:57:17.515594Z">2.1798</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957876" subType="ACTUAL" timestamp="2022-01-06T19:57:19.829562Z">1.8323</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957883" subType="ACTUAL" timestamp="2022-01-06T19:57:22.073555Z">2.4353</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957889" subType="ACTUAL" timestamp="2022-01-06T19:57:24.398985Z">2.1567</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957897" subType="ACTUAL" timestamp="2022-01-06T19:57:26.663687Z">1.5987</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957902" subType="ACTUAL" timestamp="2022-01-06T19:57:28.935099Z">1.6876</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957909" subType="ACTUAL" timestamp="2022-01-06T19:57:31.062403Z">2.3011</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957915" subType="ACTUAL" timestamp="2022-01-06T19:57:33.214648Z">1.8102</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957922" subType="ACTUAL" timestamp="2022-01-06T19:57:35.447884Z">1.5035</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957929" subType="ACTUAL" timestamp="2022-01-06T19:57:37.691866Z">1.5044</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957934" subType="ACTUAL" timestamp="2022-01-06T19:57:39.89924Z">1.48502</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957939" subType="ACTUAL" timestamp="2022-01-06T19:57:42.025869Z">1.2454</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957945" subType="ACTUAL" timestamp="2022-01-06T19:57:44.296983Z">0.9743</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957952" subType="ACTUAL" timestamp="2022-01-06T19:57:46.565747Z">1.2563</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957958" subType="ACTUAL" timestamp="2022-01-06T19:57:48.76541Z">0.9525</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957964" subType="ACTUAL" timestamp="2022-01-06T19:57:50.912453Z">0.8766</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957971" subType="ACTUAL" timestamp="2022-01-06T19:57:53.120985Z">0.5401</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957979" subType="ACTUAL" timestamp="2022-01-06T19:57:55.289035Z">3.4479</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957985" subType="ACTUAL" timestamp="2022-01-06T19:57:57.527401Z">2.7515</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957991" subType="ACTUAL" timestamp="2022-01-06T19:57:59.74312Z">2.8092</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="957998" subType="ACTUAL" timestamp="2022-01-06T19:58:01.932145Z">2.6902</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958002" subType="ACTUAL" timestamp="2022-01-06T19:58:04.063121Z">2.6236</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958010" subType="ACTUAL" timestamp="2022-01-06T19:58:06.210941Z">2.5995</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958017" subType="ACTUAL" timestamp="2022-01-06T19:58:08.414791Z">2.5403</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958022" subType="ACTUAL" timestamp="2022-01-06T19:58:10.607324Z">2.3923</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958028" subType="ACTUAL" timestamp="2022-01-06T19:58:12.89479Z">2.1544</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958035" subType="ACTUAL" timestamp="2022-01-06T19:58:15.062606Z">2.0584</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958039" subType="ACTUAL" timestamp="2022-01-06T19:58:17.280292Z">2.1446</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958043" subType="ACTUAL" timestamp="2022-01-06T19:58:19.502771Z">2.3158</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958048" subType="ACTUAL" timestamp="2022-01-06T19:58:21.639709Z">2.2474</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958054" subType="ACTUAL" timestamp="2022-01-06T19:58:23.798428Z">1.9076</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958060" subType="ACTUAL" timestamp="2022-01-06T19:58:25.9761Z">1.9206</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958067" subType="ACTUAL" timestamp="2022-01-06T19:58:28.376744Z">2.0523</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958073" subType="ACTUAL" timestamp="2022-01-06T19:58:30.610211Z">2.056</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958080" subType="ACTUAL" timestamp="2022-01-06T19:58:32.833923Z">2.1425</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958087" subType="ACTUAL" timestamp="2022-01-06T19:58:35.077314Z">1.4944</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958094" subType="ACTUAL" timestamp="2022-01-06T19:58:37.260349Z">1.6758</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958101" subType="ACTUAL" timestamp="2022-01-06T19:58:39.37852Z">1.4463</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958108" subType="ACTUAL" timestamp="2022-01-06T19:58:41.561613Z">1.1882</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958114" subType="ACTUAL" timestamp="2022-01-06T19:58:43.846645Z">1.179</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958121" subType="ACTUAL" timestamp="2022-01-06T19:58:46.120537Z">0.9577</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958127" subType="ACTUAL" timestamp="2022-01-06T19:58:48.303109Z">1.0882</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958133" subType="ACTUAL" timestamp="2022-01-06T19:58:50.495833Z">2.8359</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958140" subType="ACTUAL" timestamp="2022-01-06T19:58:52.694184Z">2.8715</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958148" subType="ACTUAL" timestamp="2022-01-06T19:58:54.882789Z">2.9225</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958155" subType="ACTUAL" timestamp="2022-01-06T19:58:57.172817Z">2.6944</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958162" subType="ACTUAL" timestamp="2022-01-06T19:58:59.479789Z">2.3133</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958169" subType="ACTUAL" timestamp="2022-01-06T19:59:01.735947Z">2.4708</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958176" subType="ACTUAL" timestamp="2022-01-06T19:59:03.939408Z">2.3889</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958182" subType="ACTUAL" timestamp="2022-01-06T19:59:06.06064Z">2.1962</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958189" subType="ACTUAL" timestamp="2022-01-06T19:59:08.263708Z">1.8668</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958195" subType="ACTUAL" timestamp="2022-01-06T19:59:10.496887Z">1.7403</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958200" subType="ACTUAL" timestamp="2022-01-06T19:59:12.715859Z">1.6168</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958206" subType="ACTUAL" timestamp="2022-01-06T19:59:14.888768Z">1.6477</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958212" subType="ACTUAL" timestamp="2022-01-06T19:59:17.111664Z">1.5732</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958219" subType="ACTUAL" timestamp="2022-01-06T19:59:19.354948Z">1.1635</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958226" subType="ACTUAL" timestamp="2022-01-06T19:59:21.526538Z">1.2679</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958232" subType="ACTUAL" timestamp="2022-01-06T19:59:23.577574Z">1.0003</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958239" subType="ACTUAL" timestamp="2022-01-06T19:59:25.791133Z">0.752</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958246" subType="ACTUAL" timestamp="2022-01-06T19:59:28.080909Z">0.7756</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958253" subType="ACTUAL" timestamp="2022-01-06T19:59:30.294894Z">0.4756</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958258" subType="ACTUAL" timestamp="2022-01-06T19:59:32.376798Z">0.3247</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958265" subType="ACTUAL" timestamp="2022-01-06T19:59:34.483792Z">0.306</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958271" subType="ACTUAL" timestamp="2022-01-06T19:59:36.636828Z">0.1374</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958276" subType="ACTUAL" timestamp="2022-01-06T19:59:38.850041Z">0.0554</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958283" subType="ACTUAL" timestamp="2022-01-06T19:59:40.947683Z">2.0915</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958290" subType="ACTUAL" timestamp="2022-01-06T19:59:43.081732Z">2.6136</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958298" subType="ACTUAL" timestamp="2022-01-06T19:59:45.149011Z">2.0841</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958305" subType="ACTUAL" timestamp="2022-01-06T19:59:47.282252Z">2.7207</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958311" subType="ACTUAL" timestamp="2022-01-06T19:59:49.380135Z">2.1582</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958318" subType="ACTUAL" timestamp="2022-01-06T19:59:51.51818Z">2.7327</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958325" subType="ACTUAL" timestamp="2022-01-06T19:59:53.621101Z">2.0175</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958333" subType="ACTUAL" timestamp="2022-01-06T19:59:55.790792Z">2.0891</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958339" subType="ACTUAL" timestamp="2022-01-06T19:59:57.9091Z">2.2736</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958344" subType="ACTUAL" timestamp="2022-01-06T20:00:00.036581Z">2.6406</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958351" subType="ACTUAL" timestamp="2022-01-06T20:00:02.133866Z">1.9742</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958358" subType="ACTUAL" timestamp="2022-01-06T20:00:04.06702Z">2.1274</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958365" subType="ACTUAL" timestamp="2022-01-06T20:00:06.0259Z">2.6136</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958372" subType="ACTUAL" timestamp="2022-01-06T20:00:07.954088Z">2.1285</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958378" subType="ACTUAL" timestamp="2022-01-06T20:00:09.887005Z">2.2641</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958384" subType="ACTUAL" timestamp="2022-01-06T20:00:11.814795Z">2.481</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958391" subType="ACTUAL" timestamp="2022-01-06T20:00:13.729155Z">2.0969</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958397" subType="ACTUAL" timestamp="2022-01-06T20:00:15.65687Z">2.1198</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958404" subType="ACTUAL" timestamp="2022-01-06T20:00:17.63122Z">2.4839</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958410" subType="ACTUAL" timestamp="2022-01-06T20:00:19.574235Z">1.8574</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958416" subType="ACTUAL" timestamp="2022-01-06T20:00:21.507071Z">2.0293</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958421" subType="ACTUAL" timestamp="2022-01-06T20:00:23.419358Z">2.2634</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958428" subType="ACTUAL" timestamp="2022-01-06T20:00:25.357405Z">2.3732</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958434" subType="ACTUAL" timestamp="2022-01-06T20:00:27.326672Z">1.9078</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958441" subType="ACTUAL" timestamp="2022-01-06T20:00:29.296878Z">2.2998</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958448" subType="ACTUAL" timestamp="2022-01-06T20:00:31.225Z">2.4957</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958454" subType="ACTUAL" timestamp="2022-01-06T20:00:33.15281Z">1.9108</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958460" subType="ACTUAL" timestamp="2022-01-06T20:00:35.08558Z">2.0886</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958466" subType="ACTUAL" timestamp="2022-01-06T20:00:37.049797Z">2.2814</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958473" subType="ACTUAL" timestamp="2022-01-06T20:00:38.922825Z">1.9972</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958478" subType="ACTUAL" timestamp="2022-01-06T20:00:40.855318Z">2.0493</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958486" subType="ACTUAL" timestamp="2022-01-06T20:00:42.481783Z">268.050995</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958518" subType="ACTUAL" timestamp="2022-01-06T20:01:00.055161Z">16.1387</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958556" subType="ACTUAL" timestamp="2022-01-06T20:03:39.800284Z">13.7376</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958558" subType="ACTUAL" timestamp="2022-01-06T20:03:41.727074Z">7.5218</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958561" subType="ACTUAL" timestamp="2022-01-06T20:03:43.71129Z">6.7687</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958585" subType="ACTUAL" timestamp="2022-01-06T20:04:31.846917Z">6.768701</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958586" subType="ACTUAL" timestamp="2022-01-06T20:04:33.880547Z">6.7687</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958591" subType="ACTUAL" timestamp="2022-01-06T20:05:07.374621Z">7.7687</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958593" subType="ACTUAL" timestamp="2022-01-06T20:05:09.394366Z">6.7687</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958596" subType="ACTUAL" timestamp="2022-01-06T20:05:17.634563Z">6</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958597" subType="ACTUAL" timestamp="2022-01-06T20:05:19.729202Z">6.7687</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958626" subType="ACTUAL" timestamp="2022-01-06T20:07:21.741882Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="xpm" name="xMachine" sequence="958628" subType="ACTUAL" timestamp="2022-01-06T20:07:23.781051Z">6.7687</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957671" subType="ACTUAL" timestamp="2022-01-06T19:56:03.886661Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957698" subType="ACTUAL" timestamp="2022-01-06T19:56:14.817111Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957705" subType="ACTUAL" timestamp="2022-01-06T19:56:17.001521Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957737" subType="ACTUAL" timestamp="2022-01-06T19:56:30.320661Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957744" subType="ACTUAL" timestamp="2022-01-06T19:56:32.463356Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957761" subType="ACTUAL" timestamp="2022-01-06T19:56:39.128151Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957768" subType="ACTUAL" timestamp="2022-01-06T19:56:41.265736Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957779" subType="ACTUAL" timestamp="2022-01-06T19:56:45.687532Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957792" subType="ACTUAL" timestamp="2022-01-06T19:56:50.002381Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957797" subType="ACTUAL" timestamp="2022-01-06T19:56:52.164135Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957803" subType="ACTUAL" timestamp="2022-01-06T19:56:54.377452Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957811" subType="ACTUAL" timestamp="2022-01-06T19:56:56.525389Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957817" subType="ACTUAL" timestamp="2022-01-06T19:56:58.769196Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957822" subType="ACTUAL" timestamp="2022-01-06T19:57:00.941606Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957828" subType="ACTUAL" timestamp="2022-01-06T19:57:03.267866Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957836" subType="ACTUAL" timestamp="2022-01-06T19:57:05.450987Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957842" subType="ACTUAL" timestamp="2022-01-06T19:57:07.659054Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957859" subType="ACTUAL" timestamp="2022-01-06T19:57:14.262319Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957867" subType="ACTUAL" timestamp="2022-01-06T19:57:16.38013Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957873" subType="ACTUAL" timestamp="2022-01-06T19:57:18.552967Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957879" subType="ACTUAL" timestamp="2022-01-06T19:57:20.837037Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957885" subType="ACTUAL" timestamp="2022-01-06T19:57:23.090722Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957893" subType="ACTUAL" timestamp="2022-01-06T19:57:25.396766Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957905" subType="ACTUAL" timestamp="2022-01-06T19:57:29.912168Z">7253</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957911" subType="ACTUAL" timestamp="2022-01-06T19:57:32.023679Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957918" subType="ACTUAL" timestamp="2022-01-06T19:57:34.247425Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957925" subType="ACTUAL" timestamp="2022-01-06T19:57:36.521261Z">7252</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957941" subType="ACTUAL" timestamp="2022-01-06T19:57:43.055409Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957949" subType="ACTUAL" timestamp="2022-01-06T19:57:45.370358Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957955" subType="ACTUAL" timestamp="2022-01-06T19:57:47.585149Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957961" subType="ACTUAL" timestamp="2022-01-06T19:57:49.747523Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957967" subType="ACTUAL" timestamp="2022-01-06T19:57:51.914884Z">7246</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957974" subType="ACTUAL" timestamp="2022-01-06T19:57:54.108114Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="957994" subType="ACTUAL" timestamp="2022-01-06T19:58:00.745486Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958006" subType="ACTUAL" timestamp="2022-01-06T19:58:05.019985Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958013" subType="ACTUAL" timestamp="2022-01-06T19:58:07.228817Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958019" subType="ACTUAL" timestamp="2022-01-06T19:58:09.37622Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958024" subType="ACTUAL" timestamp="2022-01-06T19:58:11.644865Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958030" subType="ACTUAL" timestamp="2022-01-06T19:58:13.861514Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958051" subType="ACTUAL" timestamp="2022-01-06T19:58:22.652401Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958063" subType="ACTUAL" timestamp="2022-01-06T19:58:27.023977Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958070" subType="ACTUAL" timestamp="2022-01-06T19:58:29.384372Z">7246</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958076" subType="ACTUAL" timestamp="2022-01-06T19:58:31.592303Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958082" subType="ACTUAL" timestamp="2022-01-06T19:58:33.851024Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958090" subType="ACTUAL" timestamp="2022-01-06T19:58:36.049232Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958097" subType="ACTUAL" timestamp="2022-01-06T19:58:38.27798Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958104" subType="ACTUAL" timestamp="2022-01-06T19:58:40.370725Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958111" subType="ACTUAL" timestamp="2022-01-06T19:58:42.553885Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958118" subType="ACTUAL" timestamp="2022-01-06T19:58:44.879443Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958123" subType="ACTUAL" timestamp="2022-01-06T19:58:47.071659Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958130" subType="ACTUAL" timestamp="2022-01-06T19:58:49.274935Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958136" subType="ACTUAL" timestamp="2022-01-06T19:58:51.52352Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958143" subType="ACTUAL" timestamp="2022-01-06T19:58:53.696617Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958151" subType="ACTUAL" timestamp="2022-01-06T19:58:55.941071Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958158" subType="ACTUAL" timestamp="2022-01-06T19:58:58.279203Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958165" subType="ACTUAL" timestamp="2022-01-06T19:59:00.492124Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958172" subType="ACTUAL" timestamp="2022-01-06T19:59:02.707912Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958179" subType="ACTUAL" timestamp="2022-01-06T19:59:04.931285Z">7252</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958185" subType="ACTUAL" timestamp="2022-01-06T19:59:07.083325Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958197" subType="ACTUAL" timestamp="2022-01-06T19:59:11.504Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958209" subType="ACTUAL" timestamp="2022-01-06T19:59:15.880824Z">7252</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958215" subType="ACTUAL" timestamp="2022-01-06T19:59:18.179662Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958222" subType="ACTUAL" timestamp="2022-01-06T19:59:20.331332Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958235" subType="ACTUAL" timestamp="2022-01-06T19:59:24.468368Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958242" subType="ACTUAL" timestamp="2022-01-06T19:59:26.793169Z">7252</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958249" subType="ACTUAL" timestamp="2022-01-06T19:59:29.123791Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958255" subType="ACTUAL" timestamp="2022-01-06T19:59:31.266303Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958261" subType="ACTUAL" timestamp="2022-01-06T19:59:33.384698Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958268" subType="ACTUAL" timestamp="2022-01-06T19:59:35.48139Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958273" subType="ACTUAL" timestamp="2022-01-06T19:59:37.669492Z">7251</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958279" subType="ACTUAL" timestamp="2022-01-06T19:59:39.827475Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958286" subType="ACTUAL" timestamp="2022-01-06T19:59:41.859063Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958293" subType="ACTUAL" timestamp="2022-01-06T19:59:44.028791Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958301" subType="ACTUAL" timestamp="2022-01-06T19:59:46.106237Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958314" subType="ACTUAL" timestamp="2022-01-06T19:59:50.367588Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958321" subType="ACTUAL" timestamp="2022-01-06T19:59:52.460076Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958329" subType="ACTUAL" timestamp="2022-01-06T19:59:54.578022Z">7247</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958336" subType="ACTUAL" timestamp="2022-01-06T19:59:56.747764Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958341" subType="ACTUAL" timestamp="2022-01-06T19:59:58.886147Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958347" subType="ACTUAL" timestamp="2022-01-06T20:00:01.034354Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958354" subType="ACTUAL" timestamp="2022-01-06T20:00:03.003726Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958362" subType="ACTUAL" timestamp="2022-01-06T20:00:04.968057Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958368" subType="ACTUAL" timestamp="2022-01-06T20:00:06.905957Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958374" subType="ACTUAL" timestamp="2022-01-06T20:00:08.833811Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958387" subType="ACTUAL" timestamp="2022-01-06T20:00:12.660325Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958394" subType="ACTUAL" timestamp="2022-01-06T20:00:14.619147Z">7248</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958400" subType="ACTUAL" timestamp="2022-01-06T20:00:16.531835Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958423" subType="ACTUAL" timestamp="2022-01-06T20:00:24.304197Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958437" subType="ACTUAL" timestamp="2022-01-06T20:00:28.253819Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958444" subType="ACTUAL" timestamp="2022-01-06T20:00:30.166787Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958451" subType="ACTUAL" timestamp="2022-01-06T20:00:32.099904Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958469" subType="ACTUAL" timestamp="2022-01-06T20:00:37.874671Z">7250</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958475" subType="ACTUAL" timestamp="2022-01-06T20:00:39.792365Z">7249</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958481" subType="ACTUAL" timestamp="2022-01-06T20:00:41.417855Z">-180</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958513" subType="ACTUAL" timestamp="2022-01-06T20:00:58.990881Z">0</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958538" subType="ACTUAL" timestamp="2022-01-06T20:01:49.679486Z">0.01</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958539" subType="ACTUAL" timestamp="2022-01-06T20:01:51.566296Z">0</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958639" subType="ACTUAL" timestamp="2022-01-06T20:08:02.873763Z">8e-05</Position>
+          
+          <Position dataItemId="xpw" name="xWork" sequence="958640" subType="ACTUAL" timestamp="2022-01-06T20:08:04.851346Z">0</Position>
+          
+        </Samples>
+        
+      </ComponentStream>
+      
+      <ComponentStream component="Linear" name="Y" componentId="y">
+        
+        <Samples>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957676" subType="ACTUAL" timestamp="2022-01-06T19:56:05.265496Z">-7.1714</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957680" subType="ACTUAL" timestamp="2022-01-06T19:56:07.335758Z">-8.6569</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957686" subType="ACTUAL" timestamp="2022-01-06T19:56:09.543974Z">-3.1591</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957692" subType="ACTUAL" timestamp="2022-01-06T19:56:11.838459Z">-5.3806</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957697" subType="ACTUAL" timestamp="2022-01-06T19:56:14.013648Z">-8.0853</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957703" subType="ACTUAL" timestamp="2022-01-06T19:56:16.187146Z">-4.3167</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957710" subType="ACTUAL" timestamp="2022-01-06T19:56:18.411426Z">-3.8394</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957715" subType="ACTUAL" timestamp="2022-01-06T19:56:20.669529Z">-6.7055</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957719" subType="ACTUAL" timestamp="2022-01-06T19:56:22.83088Z">-8.2886</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957726" subType="ACTUAL" timestamp="2022-01-06T19:56:25.044853Z">-2.9447</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957732" subType="ACTUAL" timestamp="2022-01-06T19:56:27.328937Z">-5.2712</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957736" subType="ACTUAL" timestamp="2022-01-06T19:56:29.511869Z">-8.0182</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957742" subType="ACTUAL" timestamp="2022-01-06T19:56:31.690056Z">-3.8242</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957749" subType="ACTUAL" timestamp="2022-01-06T19:56:33.945225Z">-3.6417</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957755" subType="ACTUAL" timestamp="2022-01-06T19:56:36.117489Z">-6.4764</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957759" subType="ACTUAL" timestamp="2022-01-06T19:56:38.344687Z">-8.2997</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957766" subType="ACTUAL" timestamp="2022-01-06T19:56:40.497503Z">-2.9243</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957773" subType="ACTUAL" timestamp="2022-01-06T19:56:42.758393Z">-5.0816</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957778" subType="ACTUAL" timestamp="2022-01-06T19:56:44.914732Z">-7.9247</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957784" subType="ACTUAL" timestamp="2022-01-06T19:56:47.082077Z">-4.2854</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957790" subType="ACTUAL" timestamp="2022-01-06T19:56:49.1784Z">-3.8101</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957796" subType="ACTUAL" timestamp="2022-01-06T19:56:51.37105Z">-6.5119</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957801" subType="ACTUAL" timestamp="2022-01-06T19:56:53.548038Z">-8.2425</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957809" subType="ACTUAL" timestamp="2022-01-06T19:56:55.721591Z">-2.9236</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957816" subType="ACTUAL" timestamp="2022-01-06T19:56:57.940387Z">-5.2229</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957821" subType="ACTUAL" timestamp="2022-01-06T19:57:00.158626Z">-8.0124</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957827" subType="ACTUAL" timestamp="2022-01-06T19:57:02.45447Z">-6.7081</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957834" subType="ACTUAL" timestamp="2022-01-06T19:57:04.69293Z">-7.2326</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957841" subType="ACTUAL" timestamp="2022-01-06T19:57:06.860849Z">-7.9063</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957846" subType="ACTUAL" timestamp="2022-01-06T19:57:09.038046Z">-8.3054</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957851" subType="ACTUAL" timestamp="2022-01-06T19:57:11.243434Z">-7.6691</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957857" subType="ACTUAL" timestamp="2022-01-06T19:57:13.448082Z">-7.047</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957864" subType="ACTUAL" timestamp="2022-01-06T19:57:15.631504Z">-7.3015</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957872" subType="ACTUAL" timestamp="2022-01-06T19:57:17.734517Z">-8.3423</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957877" subType="ACTUAL" timestamp="2022-01-06T19:57:20.023118Z">-7.7708</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957884" subType="ACTUAL" timestamp="2022-01-06T19:57:22.292485Z">-6.8598</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957891" subType="ACTUAL" timestamp="2022-01-06T19:57:24.612887Z">-7.7764</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957898" subType="ACTUAL" timestamp="2022-01-06T19:57:26.887691Z">-8.306</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957903" subType="ACTUAL" timestamp="2022-01-06T19:57:29.148954Z">-7.4133</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957910" subType="ACTUAL" timestamp="2022-01-06T19:57:31.255977Z">-6.7381</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957916" subType="ACTUAL" timestamp="2022-01-06T19:57:33.398063Z">-7.529</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957923" subType="ACTUAL" timestamp="2022-01-06T19:57:35.687124Z">-7.4194</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957930" subType="ACTUAL" timestamp="2022-01-06T19:57:37.885391Z">-7.2424</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957935" subType="ACTUAL" timestamp="2022-01-06T19:57:40.087755Z">-7.1363</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957940" subType="ACTUAL" timestamp="2022-01-06T19:57:42.234599Z">-7</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957947" subType="ACTUAL" timestamp="2022-01-06T19:57:44.536191Z">-7.7502</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957953" subType="ACTUAL" timestamp="2022-01-06T19:57:46.801554Z">-6.9751</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957959" subType="ACTUAL" timestamp="2022-01-06T19:57:48.948832Z">-7.2726</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957965" subType="ACTUAL" timestamp="2022-01-06T19:57:51.121217Z">-7.107</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957972" subType="ACTUAL" timestamp="2022-01-06T19:57:53.334851Z">-7.3799</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957980" subType="ACTUAL" timestamp="2022-01-06T19:57:55.487659Z">-2.9578</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957986" subType="ACTUAL" timestamp="2022-01-06T19:57:57.779313Z">-4.4577</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957992" subType="ACTUAL" timestamp="2022-01-06T19:57:59.941818Z">-4.7579</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="957999" subType="ACTUAL" timestamp="2022-01-06T19:58:02.135869Z">-4.87</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958003" subType="ACTUAL" timestamp="2022-01-06T19:58:04.246626Z">-4.748</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958011" subType="ACTUAL" timestamp="2022-01-06T19:58:06.419764Z">-4.7099</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958018" subType="ACTUAL" timestamp="2022-01-06T19:58:08.603315Z">-4.5982</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958023" subType="ACTUAL" timestamp="2022-01-06T19:58:10.811111Z">-4.7587</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958029" subType="ACTUAL" timestamp="2022-01-06T19:58:13.088449Z">-4.9176</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958036" subType="ACTUAL" timestamp="2022-01-06T19:58:15.286629Z">-4.9296</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958040" subType="ACTUAL" timestamp="2022-01-06T19:58:17.489194Z">-4.7325</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958044" subType="ACTUAL" timestamp="2022-01-06T19:58:19.691393Z">-4.4913</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958049" subType="ACTUAL" timestamp="2022-01-06T19:58:21.823202Z">-5.0543</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958056" subType="ACTUAL" timestamp="2022-01-06T19:58:23.976891Z">-5.8778</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958061" subType="ACTUAL" timestamp="2022-01-06T19:58:26.215247Z">-5.7236</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958068" subType="ACTUAL" timestamp="2022-01-06T19:58:28.575441Z">-5.3595</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958074" subType="ACTUAL" timestamp="2022-01-06T19:58:30.808876Z">-4.5226</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958081" subType="ACTUAL" timestamp="2022-01-06T19:58:33.052874Z">-4.3287</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958088" subType="ACTUAL" timestamp="2022-01-06T19:58:35.265828Z">-4.8108</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958095" subType="ACTUAL" timestamp="2022-01-06T19:58:37.494488Z">-4.3339</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958102" subType="ACTUAL" timestamp="2022-01-06T19:58:39.567023Z">-4.3417</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958109" subType="ACTUAL" timestamp="2022-01-06T19:58:41.770431Z">-4.3789</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958115" subType="ACTUAL" timestamp="2022-01-06T19:58:44.070659Z">-4.1716</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958122" subType="ACTUAL" timestamp="2022-01-06T19:58:46.319166Z">-4.2483</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958128" subType="ACTUAL" timestamp="2022-01-06T19:58:48.496663Z">-4.2297</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958134" subType="ACTUAL" timestamp="2022-01-06T19:58:50.704637Z">-3.4646</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958141" subType="ACTUAL" timestamp="2022-01-06T19:58:52.8878Z">-3.2174</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958149" subType="ACTUAL" timestamp="2022-01-06T19:58:55.13729Z">-3.0672</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958156" subType="ACTUAL" timestamp="2022-01-06T19:58:57.381696Z">-3.1999</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958163" subType="ACTUAL" timestamp="2022-01-06T19:58:59.683362Z">-3.4816</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958170" subType="ACTUAL" timestamp="2022-01-06T19:59:01.939677Z">-3.024</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958178" subType="ACTUAL" timestamp="2022-01-06T19:59:04.173583Z">-2.929</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958183" subType="ACTUAL" timestamp="2022-01-06T19:59:06.269372Z">-3.18</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958190" subType="ACTUAL" timestamp="2022-01-06T19:59:08.477557Z">-3.3711</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958196" subType="ACTUAL" timestamp="2022-01-06T19:59:10.685149Z">-3.3637</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958201" subType="ACTUAL" timestamp="2022-01-06T19:59:12.935031Z">-3.3244</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958207" subType="ACTUAL" timestamp="2022-01-06T19:59:15.09242Z">-3.1361</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958213" subType="ACTUAL" timestamp="2022-01-06T19:59:17.29494Z">-2.9275</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958220" subType="ACTUAL" timestamp="2022-01-06T19:59:19.543203Z">-3.273</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958227" subType="ACTUAL" timestamp="2022-01-06T19:59:21.675066Z">-2.9621</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958233" subType="ACTUAL" timestamp="2022-01-06T19:59:23.786309Z">-3.0857</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958240" subType="ACTUAL" timestamp="2022-01-06T19:59:25.979505Z">-3.182</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958247" subType="ACTUAL" timestamp="2022-01-06T19:59:28.309985Z">-2.9306</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958254" subType="ACTUAL" timestamp="2022-01-06T19:59:30.498462Z">-3.0474</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958259" subType="ACTUAL" timestamp="2022-01-06T19:59:32.580585Z">-3.1102</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958266" subType="ACTUAL" timestamp="2022-01-06T19:59:34.687567Z">-2.9388</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958272" subType="ACTUAL" timestamp="2022-01-06T19:59:36.840702Z">-2.9236</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958277" subType="ACTUAL" timestamp="2022-01-06T19:59:39.058892Z">-3.0142</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958284" subType="ACTUAL" timestamp="2022-01-06T19:59:41.131106Z">-3.4546</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958291" subType="ACTUAL" timestamp="2022-01-06T19:59:43.280413Z">-4.7393</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958299" subType="ACTUAL" timestamp="2022-01-06T19:59:45.342651Z">-5.6774</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958306" subType="ACTUAL" timestamp="2022-01-06T19:59:47.470774Z">-6.7373</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958312" subType="ACTUAL" timestamp="2022-01-06T19:59:49.578826Z">-7.7262</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958319" subType="ACTUAL" timestamp="2022-01-06T19:59:51.706736Z">-8.649</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958326" subType="ACTUAL" timestamp="2022-01-06T19:59:53.839956Z">-3.4199</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958334" subType="ACTUAL" timestamp="2022-01-06T19:59:55.989492Z">-5.1259</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958340" subType="ACTUAL" timestamp="2022-01-06T19:59:58.107858Z">-6.8395</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958345" subType="ACTUAL" timestamp="2022-01-06T20:00:00.250536Z">-8.8682</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958352" subType="ACTUAL" timestamp="2022-01-06T20:00:02.312016Z">-3.3727</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958359" subType="ACTUAL" timestamp="2022-01-06T20:00:04.240073Z">-4.5454</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958366" subType="ACTUAL" timestamp="2022-01-06T20:00:06.198956Z">-6.5539</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958373" subType="ACTUAL" timestamp="2022-01-06T20:00:08.127166Z">-8.5074</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958379" subType="ACTUAL" timestamp="2022-01-06T20:00:10.060043Z">-5.5773</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958385" subType="ACTUAL" timestamp="2022-01-06T20:00:11.993048Z">-3.8121</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958392" subType="ACTUAL" timestamp="2022-01-06T20:00:13.902249Z">-5.8807</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958398" subType="ACTUAL" timestamp="2022-01-06T20:00:15.829939Z">-7.6685</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958405" subType="ACTUAL" timestamp="2022-01-06T20:00:17.804273Z">-8.6746</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958411" subType="ACTUAL" timestamp="2022-01-06T20:00:19.752386Z">-3.3416</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958417" subType="ACTUAL" timestamp="2022-01-06T20:00:21.680111Z">0</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958422" subType="ACTUAL" timestamp="2022-01-06T20:00:23.592426Z">-6.8079</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958429" subType="ACTUAL" timestamp="2022-01-06T20:00:25.561566Z">-8.8705</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958435" subType="ACTUAL" timestamp="2022-01-06T20:00:27.499716Z">-3.4885</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958442" subType="ACTUAL" timestamp="2022-01-06T20:00:29.469937Z">-4.3165</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958449" subType="ACTUAL" timestamp="2022-01-06T20:00:31.398047Z">-6.2837</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958455" subType="ACTUAL" timestamp="2022-01-06T20:00:33.330921Z">-8.5036</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958461" subType="ACTUAL" timestamp="2022-01-06T20:00:35.25864Z">-5.7505</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958467" subType="ACTUAL" timestamp="2022-01-06T20:00:37.167706Z">-3.8054</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958474" subType="ACTUAL" timestamp="2022-01-06T20:00:39.095892Z">-5.8306</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958479" subType="ACTUAL" timestamp="2022-01-06T20:00:41.028369Z">-7.7492</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958487" subType="ACTUAL" timestamp="2022-01-06T20:00:42.708995Z">2.245</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958494" subType="ACTUAL" timestamp="2022-01-06T20:00:44.647794Z">2.7115</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958500" subType="ACTUAL" timestamp="2022-01-06T20:00:46.56567Z">10.1761</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958503" subType="ACTUAL" timestamp="2022-01-06T20:00:48.482727Z">16.1387</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958510" subType="ACTUAL" timestamp="2022-01-06T20:00:58.298582Z">5.0248</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958562" subType="ACTUAL" timestamp="2022-01-06T20:03:45.810416Z">5.3493</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958564" subType="ACTUAL" timestamp="2022-01-06T20:03:47.737059Z">10.1091</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958632" subType="ACTUAL" timestamp="2022-01-06T20:07:34.079383Z">10.109</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958633" subType="ACTUAL" timestamp="2022-01-06T20:07:36.087629Z">10.1091</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958652" subType="ACTUAL" timestamp="2022-01-06T20:09:27.426383Z">5.3316</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958654" subType="ACTUAL" timestamp="2022-01-06T20:09:29.532112Z">0.7459</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958656" subType="ACTUAL" timestamp="2022-01-06T20:09:31.505216Z">-3.7895</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958658" subType="ACTUAL" timestamp="2022-01-06T20:09:33.508706Z">-6.1409</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958662" subType="ACTUAL" timestamp="2022-01-06T20:09:51.409643Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="ypm" name="yMachine" sequence="958664" subType="ACTUAL" timestamp="2022-01-06T20:09:53.387181Z">-6.1409</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957672" subType="ACTUAL" timestamp="2022-01-06T19:56:04.085326Z">-16.5317</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957677" subType="ACTUAL" timestamp="2022-01-06T19:56:06.206071Z">-16.931601</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957682" subType="ACTUAL" timestamp="2022-01-06T19:56:08.358091Z">-16.3116</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957688" subType="ACTUAL" timestamp="2022-01-06T19:56:10.616925Z">-16.556601</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957693" subType="ACTUAL" timestamp="2022-01-06T19:56:12.812335Z">-16.655001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957699" subType="ACTUAL" timestamp="2022-01-06T19:56:15.006084Z">-17.1574</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957706" subType="ACTUAL" timestamp="2022-01-06T19:56:17.20019Z">-15.862</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957712" subType="ACTUAL" timestamp="2022-01-06T19:56:19.463998Z">-16.73</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957716" subType="ACTUAL" timestamp="2022-01-06T19:56:21.635399Z">-16.955099</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957721" subType="ACTUAL" timestamp="2022-01-06T19:56:23.833591Z">-16.237499</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957728" subType="ACTUAL" timestamp="2022-01-06T19:56:26.112691Z">-16.716499</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957733" subType="ACTUAL" timestamp="2022-01-06T19:56:28.316314Z">-16.851601</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957738" subType="ACTUAL" timestamp="2022-01-06T19:56:30.519283Z">-17.222</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957745" subType="ACTUAL" timestamp="2022-01-06T19:56:32.692408Z">-15.878</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957752" subType="ACTUAL" timestamp="2022-01-06T19:56:34.901546Z">-16.9277</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957756" subType="ACTUAL" timestamp="2022-01-06T19:56:37.123929Z">-17.0879</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957762" subType="ACTUAL" timestamp="2022-01-06T19:56:39.336928Z">-16.400499</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957769" subType="ACTUAL" timestamp="2022-01-06T19:56:41.479673Z">-16.875</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957774" subType="ACTUAL" timestamp="2022-01-06T19:56:43.744646Z">-17.0459</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957780" subType="ACTUAL" timestamp="2022-01-06T19:56:45.881169Z">-17.255501</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957786" subType="ACTUAL" timestamp="2022-01-06T19:56:48.038276Z">-16.130301</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957793" subType="ACTUAL" timestamp="2022-01-06T19:56:50.190805Z">-17.126301</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957798" subType="ACTUAL" timestamp="2022-01-06T19:56:52.40841Z">-17.368099</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957805" subType="ACTUAL" timestamp="2022-01-06T19:56:54.571051Z">-16.605</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957812" subType="ACTUAL" timestamp="2022-01-06T19:56:56.708847Z">-17.1071</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957818" subType="ACTUAL" timestamp="2022-01-06T19:56:58.973042Z">-17.2061</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957823" subType="ACTUAL" timestamp="2022-01-06T19:57:01.15071Z">-17.4035</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957829" subType="ACTUAL" timestamp="2022-01-06T19:57:03.527311Z">-17.6724</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957837" subType="ACTUAL" timestamp="2022-01-06T19:57:05.654674Z">-17.5951</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957843" subType="ACTUAL" timestamp="2022-01-06T19:57:07.852644Z">-17.4133</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957848" subType="ACTUAL" timestamp="2022-01-06T19:57:09.994313Z">-17.369101</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957853" subType="ACTUAL" timestamp="2022-01-06T19:57:12.214993Z">-17.5502</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957861" subType="ACTUAL" timestamp="2022-01-06T19:57:14.47624Z">-17.938299</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957868" subType="ACTUAL" timestamp="2022-01-06T19:57:16.573801Z">-17.9944</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957874" subType="ACTUAL" timestamp="2022-01-06T19:57:18.782024Z">-17.487</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957880" subType="ACTUAL" timestamp="2022-01-06T19:57:21.040723Z">-17.6406</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957886" subType="ACTUAL" timestamp="2022-01-06T19:57:23.299531Z">-18.2848</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957894" subType="ACTUAL" timestamp="2022-01-06T19:57:25.600488Z">-17.946199</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957899" subType="ACTUAL" timestamp="2022-01-06T19:57:27.937748Z">-17.721001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957906" subType="ACTUAL" timestamp="2022-01-06T19:57:30.115858Z">-18.1348</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957912" subType="ACTUAL" timestamp="2022-01-06T19:57:32.23762Z">-18.5098</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957919" subType="ACTUAL" timestamp="2022-01-06T19:57:34.440967Z">-17.822599</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957926" subType="ACTUAL" timestamp="2022-01-06T19:57:36.714842Z">-18.306101</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957931" subType="ACTUAL" timestamp="2022-01-06T19:57:38.886746Z">-18.4464</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957936" subType="ACTUAL" timestamp="2022-01-06T19:57:41.038409Z">-18.506399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957942" subType="ACTUAL" timestamp="2022-01-06T19:57:43.259163Z">-18.5159</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957950" subType="ACTUAL" timestamp="2022-01-06T19:57:45.589248Z">-18.865299</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957956" subType="ACTUAL" timestamp="2022-01-06T19:57:47.778712Z">-18.8398</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957962" subType="ACTUAL" timestamp="2022-01-06T19:57:49.946148Z">-19.0119</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957968" subType="ACTUAL" timestamp="2022-01-06T19:57:52.118637Z">-19.230301</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957975" subType="ACTUAL" timestamp="2022-01-06T19:57:54.317071Z">-18.6877</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957982" subType="ACTUAL" timestamp="2022-01-06T19:57:56.453993Z">-16.844801</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957988" subType="ACTUAL" timestamp="2022-01-06T19:57:58.715361Z">-17.2889</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="957995" subType="ACTUAL" timestamp="2022-01-06T19:58:00.928888Z">-17.422001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958000" subType="ACTUAL" timestamp="2022-01-06T19:58:03.106798Z">-17.521</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958007" subType="ACTUAL" timestamp="2022-01-06T19:58:05.228804Z">-17.622801</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958014" subType="ACTUAL" timestamp="2022-01-06T19:58:07.442715Z">-17.7038</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958020" subType="ACTUAL" timestamp="2022-01-06T19:58:09.56983Z">-17.6164</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958025" subType="ACTUAL" timestamp="2022-01-06T19:58:11.838522Z">-17.594601</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958031" subType="ACTUAL" timestamp="2022-01-06T19:58:14.055136Z">-17.625099</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958037" subType="ACTUAL" timestamp="2022-01-06T19:58:16.277871Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958041" subType="ACTUAL" timestamp="2022-01-06T19:58:18.480487Z">-17.846701</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958045" subType="ACTUAL" timestamp="2022-01-06T19:58:20.657435Z">-18.2122</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958052" subType="ACTUAL" timestamp="2022-01-06T19:58:22.840973Z">-18.1996</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958057" subType="ACTUAL" timestamp="2022-01-06T19:58:24.999022Z">-18.0646</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958064" subType="ACTUAL" timestamp="2022-01-06T19:58:27.258147Z">-18.195299</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958071" subType="ACTUAL" timestamp="2022-01-06T19:58:29.583002Z">-18.163601</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958077" subType="ACTUAL" timestamp="2022-01-06T19:58:31.7859Z">-18.2957</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958083" subType="ACTUAL" timestamp="2022-01-06T19:58:34.085143Z">-18.200899</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958091" subType="ACTUAL" timestamp="2022-01-06T19:58:36.242805Z">-18.4841</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958098" subType="ACTUAL" timestamp="2022-01-06T19:58:38.471502Z">-18.426399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958105" subType="ACTUAL" timestamp="2022-01-06T19:58:40.554148Z">-18.691999</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958112" subType="ACTUAL" timestamp="2022-01-06T19:58:42.803992Z">-18.745399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958119" subType="ACTUAL" timestamp="2022-01-06T19:58:45.083118Z">-18.7556</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958124" subType="ACTUAL" timestamp="2022-01-06T19:58:47.300785Z">-19.047001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958131" subType="ACTUAL" timestamp="2022-01-06T19:58:49.519234Z">-16.497</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958137" subType="ACTUAL" timestamp="2022-01-06T19:58:51.737359Z">-16.7318</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958144" subType="ACTUAL" timestamp="2022-01-06T19:58:53.920642Z">-17.361</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958152" subType="ACTUAL" timestamp="2022-01-06T19:58:56.165103Z">-16.9505</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958159" subType="ACTUAL" timestamp="2022-01-06T19:58:58.508254Z">-17.4533</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958166" subType="ACTUAL" timestamp="2022-01-06T19:59:00.695817Z">-17.672001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958173" subType="ACTUAL" timestamp="2022-01-06T19:59:02.91666Z">-17.5306</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958180" subType="ACTUAL" timestamp="2022-01-06T19:59:05.1248Z">-17.6353</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958186" subType="ACTUAL" timestamp="2022-01-06T19:59:07.281925Z">-17.844</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958192" subType="ACTUAL" timestamp="2022-01-06T19:59:09.479662Z">-18.0655</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958198" subType="ACTUAL" timestamp="2022-01-06T19:59:11.707528Z">-18.1912</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958202" subType="ACTUAL" timestamp="2022-01-06T19:59:13.840506Z">-18.2237</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958210" subType="ACTUAL" timestamp="2022-01-06T19:59:16.069087Z">-18.319401</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958216" subType="ACTUAL" timestamp="2022-01-06T19:59:18.393443Z">-18.686899</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958223" subType="ACTUAL" timestamp="2022-01-06T19:59:20.565267Z">-18.630899</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958229" subType="ACTUAL" timestamp="2022-01-06T19:59:22.641265Z">-18.996901</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958236" subType="ACTUAL" timestamp="2022-01-06T19:59:24.676942Z">-18.991501</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958243" subType="ACTUAL" timestamp="2022-01-06T19:59:26.991568Z">-19.171301</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958250" subType="ACTUAL" timestamp="2022-01-06T19:59:29.322407Z">-19.2351</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958256" subType="ACTUAL" timestamp="2022-01-06T19:59:31.48512Z">-19.434</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958262" subType="ACTUAL" timestamp="2022-01-06T19:59:33.568016Z">-19.6584</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958269" subType="ACTUAL" timestamp="2022-01-06T19:59:35.65978Z">-19.7481</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958274" subType="ACTUAL" timestamp="2022-01-06T19:59:37.858007Z">-19.841101</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958280" subType="ACTUAL" timestamp="2022-01-06T19:59:40.02619Z">-19.298</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958287" subType="ACTUAL" timestamp="2022-01-06T19:59:42.057748Z">-17.2274</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958294" subType="ACTUAL" timestamp="2022-01-06T19:59:44.222376Z">-17.771799</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958302" subType="ACTUAL" timestamp="2022-01-06T19:59:46.309972Z">-17.268</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958308" subType="ACTUAL" timestamp="2022-01-06T19:59:48.478271Z">-17.523001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958315" subType="ACTUAL" timestamp="2022-01-06T19:59:50.556117Z">-17.343</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958322" subType="ACTUAL" timestamp="2022-01-06T19:59:52.668956Z">-17.7313</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958330" subType="ACTUAL" timestamp="2022-01-06T19:59:54.797049Z">-17.316799</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958337" subType="ACTUAL" timestamp="2022-01-06T19:59:56.931204Z">-17.346399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958342" subType="ACTUAL" timestamp="2022-01-06T19:59:59.095079Z">-17.784201</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958348" subType="ACTUAL" timestamp="2022-01-06T20:00:01.243299Z">-17.5418</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958355" subType="ACTUAL" timestamp="2022-01-06T20:00:03.176841Z">-17.3972</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958363" subType="ACTUAL" timestamp="2022-01-06T20:00:05.141118Z">-17.8514</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958369" subType="ACTUAL" timestamp="2022-01-06T20:00:07.084128Z">-17.787399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958375" subType="ACTUAL" timestamp="2022-01-06T20:00:09.006906Z">-17.3822</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958381" subType="ACTUAL" timestamp="2022-01-06T20:00:10.944886Z">-18.0144</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958388" subType="ACTUAL" timestamp="2022-01-06T20:00:12.838653Z">-17.839701</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958395" subType="ACTUAL" timestamp="2022-01-06T20:00:14.792222Z">-17.449301</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958401" subType="ACTUAL" timestamp="2022-01-06T20:00:16.710032Z">-17.6542</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958407" subType="ACTUAL" timestamp="2022-01-06T20:00:18.694168Z">-17.8957</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958413" subType="ACTUAL" timestamp="2022-01-06T20:00:20.616889Z">-17.478901</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958419" subType="ACTUAL" timestamp="2022-01-06T20:00:22.554752Z">-17.684099</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958424" subType="ACTUAL" timestamp="2022-01-06T20:00:24.48237Z">-17.910801</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958431" subType="ACTUAL" timestamp="2022-01-06T20:00:26.451635Z">-17.640301</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958438" subType="ACTUAL" timestamp="2022-01-06T20:00:28.42691Z">-17.933001</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958445" subType="ACTUAL" timestamp="2022-01-06T20:00:30.339854Z">-17.917999</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958452" subType="ACTUAL" timestamp="2022-01-06T20:00:32.272942Z">-17.839399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958456" subType="ACTUAL" timestamp="2022-01-06T20:00:34.210625Z">-17.620399</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958463" subType="ACTUAL" timestamp="2022-01-06T20:00:36.174948Z">-18.1751</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958470" subType="ACTUAL" timestamp="2022-01-06T20:00:38.047723Z">-17.994801</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958476" subType="ACTUAL" timestamp="2022-01-06T20:00:39.965411Z">-17.5382</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958482" subType="ACTUAL" timestamp="2022-01-06T20:00:41.596073Z">7250</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958490" subType="ACTUAL" timestamp="2022-01-06T20:00:43.594479Z">7249</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958497" subType="ACTUAL" timestamp="2022-01-06T20:00:45.517644Z">7250</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958505" subType="ACTUAL" timestamp="2022-01-06T20:00:49.357398Z">4140</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958508" subType="ACTUAL" timestamp="2022-01-06T20:00:51.294484Z">0</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958514" subType="ACTUAL" timestamp="2022-01-06T20:00:59.163969Z">-3.8059</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958554" subType="ACTUAL" timestamp="2022-01-06T20:03:38.930637Z">-4.056</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958557" subType="ACTUAL" timestamp="2022-01-06T20:03:40.847457Z">-9.6145</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958559" subType="ACTUAL" timestamp="2022-01-06T20:03:42.841919Z">-13.1759</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958608" subType="ACTUAL" timestamp="2022-01-06T20:05:59.0134Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958610" subType="ACTUAL" timestamp="2022-01-06T20:06:01.027864Z">-13.1759</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958615" subType="ACTUAL" timestamp="2022-01-06T20:06:26.878257Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958617" subType="ACTUAL" timestamp="2022-01-06T20:06:28.988353Z">-13.1759</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958646" subType="ACTUAL" timestamp="2022-01-06T20:08:54.978187Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="ypw" name="yWork" sequence="958647" subType="ACTUAL" timestamp="2022-01-06T20:08:56.97098Z">-13.1759</Position>
+          
+        </Samples>
+        
+      </ComponentStream>
+      
+      <ComponentStream component="Linear" name="Z" componentId="z">
+        
+        <Samples>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957681" subType="ACTUAL" timestamp="2022-01-06T19:56:07.564886Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957687" subType="ACTUAL" timestamp="2022-01-06T19:56:09.747735Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957704" subType="ACTUAL" timestamp="2022-01-06T19:56:16.401127Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957711" subType="ACTUAL" timestamp="2022-01-06T19:56:18.620193Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957720" subType="ACTUAL" timestamp="2022-01-06T19:56:23.019317Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957727" subType="ACTUAL" timestamp="2022-01-06T19:56:25.253605Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957743" subType="ACTUAL" timestamp="2022-01-06T19:56:31.878531Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957751" subType="ACTUAL" timestamp="2022-01-06T19:56:34.154055Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957760" subType="ACTUAL" timestamp="2022-01-06T19:56:38.543335Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957767" subType="ACTUAL" timestamp="2022-01-06T19:56:40.691106Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957785" subType="ACTUAL" timestamp="2022-01-06T19:56:47.295948Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957791" subType="ACTUAL" timestamp="2022-01-06T19:56:49.387164Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957802" subType="ACTUAL" timestamp="2022-01-06T19:56:53.807829Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957810" subType="ACTUAL" timestamp="2022-01-06T19:56:55.925307Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957835" subType="ACTUAL" timestamp="2022-01-06T19:57:04.886493Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957847" subType="ACTUAL" timestamp="2022-01-06T19:57:09.231638Z">-8.8613</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957852" subType="ACTUAL" timestamp="2022-01-06T19:57:11.442131Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957865" subType="ACTUAL" timestamp="2022-01-06T19:57:15.840324Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957878" subType="ACTUAL" timestamp="2022-01-06T19:57:20.206557Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957892" subType="ACTUAL" timestamp="2022-01-06T19:57:24.831794Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957904" subType="ACTUAL" timestamp="2022-01-06T19:57:29.33747Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957917" subType="ACTUAL" timestamp="2022-01-06T19:57:33.601791Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957924" subType="ACTUAL" timestamp="2022-01-06T19:57:35.90097Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957948" subType="ACTUAL" timestamp="2022-01-06T19:57:44.760208Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957954" subType="ACTUAL" timestamp="2022-01-06T19:57:47.015496Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957960" subType="ACTUAL" timestamp="2022-01-06T19:57:49.152572Z">-8.866</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957966" subType="ACTUAL" timestamp="2022-01-06T19:57:51.329979Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957973" subType="ACTUAL" timestamp="2022-01-06T19:57:53.533474Z">-8.6635</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957981" subType="ACTUAL" timestamp="2022-01-06T19:57:55.701495Z">-8.0679</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957987" subType="ACTUAL" timestamp="2022-01-06T19:57:57.97803Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="957993" subType="ACTUAL" timestamp="2022-01-06T19:58:00.170852Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958005" subType="ACTUAL" timestamp="2022-01-06T19:58:04.445318Z">-8.863</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958012" subType="ACTUAL" timestamp="2022-01-06T19:58:06.608364Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958050" subType="ACTUAL" timestamp="2022-01-06T19:58:22.047246Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958062" subType="ACTUAL" timestamp="2022-01-06T19:58:26.398594Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958069" subType="ACTUAL" timestamp="2022-01-06T19:58:28.789386Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958075" subType="ACTUAL" timestamp="2022-01-06T19:58:31.007511Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958089" subType="ACTUAL" timestamp="2022-01-06T19:58:35.469509Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958096" subType="ACTUAL" timestamp="2022-01-06T19:58:37.677908Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958103" subType="ACTUAL" timestamp="2022-01-06T19:58:39.770707Z">-8.867</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958110" subType="ACTUAL" timestamp="2022-01-06T19:58:41.953855Z">-8.8672</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958117" subType="ACTUAL" timestamp="2022-01-06T19:58:44.264238Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958129" subType="ACTUAL" timestamp="2022-01-06T19:58:48.705423Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958135" subType="ACTUAL" timestamp="2022-01-06T19:58:50.938739Z">-8.8613</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958142" subType="ACTUAL" timestamp="2022-01-06T19:58:53.09151Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958150" subType="ACTUAL" timestamp="2022-01-06T19:58:55.330894Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958157" subType="ACTUAL" timestamp="2022-01-06T19:58:57.704384Z">-8.8638</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958164" subType="ACTUAL" timestamp="2022-01-06T19:58:59.881904Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958171" subType="ACTUAL" timestamp="2022-01-06T19:59:02.133222Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958184" subType="ACTUAL" timestamp="2022-01-06T19:59:06.473126Z">-8.869</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958191" subType="ACTUAL" timestamp="2022-01-06T19:59:08.731878Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958208" subType="ACTUAL" timestamp="2022-01-06T19:59:15.300977Z">-8.8657</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958214" subType="ACTUAL" timestamp="2022-01-06T19:59:17.523936Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958221" subType="ACTUAL" timestamp="2022-01-06T19:59:19.741625Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958228" subType="ACTUAL" timestamp="2022-01-06T19:59:21.868472Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958241" subType="ACTUAL" timestamp="2022-01-06T19:59:26.177991Z">-8.8612</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958248" subType="ACTUAL" timestamp="2022-01-06T19:59:28.518613Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958260" subType="ACTUAL" timestamp="2022-01-06T19:59:32.789439Z">-8.8663</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958267" subType="ACTUAL" timestamp="2022-01-06T19:59:34.911628Z">-8.8692</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958278" subType="ACTUAL" timestamp="2022-01-06T19:59:39.232246Z">-8.8337</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958285" subType="ACTUAL" timestamp="2022-01-06T19:59:41.309451Z">-8.8678</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958292" subType="ACTUAL" timestamp="2022-01-06T19:59:43.463918Z">-7.875</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958300" subType="ACTUAL" timestamp="2022-01-06T19:59:45.546458Z">-8.8676</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958307" subType="ACTUAL" timestamp="2022-01-06T19:59:47.679598Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958313" subType="ACTUAL" timestamp="2022-01-06T19:59:49.777495Z">-8.8599</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958320" subType="ACTUAL" timestamp="2022-01-06T19:59:51.905429Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958327" subType="ACTUAL" timestamp="2022-01-06T19:59:54.033541Z">-8.8523</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958335" subType="ACTUAL" timestamp="2022-01-06T19:59:56.172923Z">-8.8443</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958346" subType="ACTUAL" timestamp="2022-01-06T20:00:00.43397Z">-7.4728</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958353" subType="ACTUAL" timestamp="2022-01-06T20:00:02.485088Z">-8.7239</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958361" subType="ACTUAL" timestamp="2022-01-06T20:00:04.444247Z">-8.8243</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958367" subType="ACTUAL" timestamp="2022-01-06T20:00:06.372012Z">-8.8323</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958380" subType="ACTUAL" timestamp="2022-01-06T20:00:10.233094Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958386" subType="ACTUAL" timestamp="2022-01-06T20:00:12.110784Z">-8.8123</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958399" subType="ACTUAL" timestamp="2022-01-06T20:00:16.002986Z">-8.8043</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958406" subType="ACTUAL" timestamp="2022-01-06T20:00:17.982447Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958412" subType="ACTUAL" timestamp="2022-01-06T20:00:19.92546Z">-8.7923</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958418" subType="ACTUAL" timestamp="2022-01-06T20:00:21.853176Z">-8.7843</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958430" subType="ACTUAL" timestamp="2022-01-06T20:00:25.744953Z">-8.2159</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958436" subType="ACTUAL" timestamp="2022-01-06T20:00:27.719853Z">-7.312</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958443" subType="ACTUAL" timestamp="2022-01-06T20:00:29.643007Z">-8.7643</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958450" subType="ACTUAL" timestamp="2022-01-06T20:00:31.571084Z">-8.7723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958462" subType="ACTUAL" timestamp="2022-01-06T20:00:35.462816Z">-7.1723</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958468" subType="ACTUAL" timestamp="2022-01-06T20:00:37.340753Z">-8.7523</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958480" subType="ACTUAL" timestamp="2022-01-06T20:00:41.216685Z">-8.7443</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958488" subType="ACTUAL" timestamp="2022-01-06T20:00:42.897345Z">-8.8689</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958495" subType="ACTUAL" timestamp="2022-01-06T20:00:44.820851Z">-7.8433</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958501" subType="ACTUAL" timestamp="2022-01-06T20:00:46.738725Z">-0.2607</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958504" subType="ACTUAL" timestamp="2022-01-06T20:00:48.660897Z">5.0248</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958511" subType="ACTUAL" timestamp="2022-01-06T20:00:58.47173Z">0</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958627" subType="ACTUAL" timestamp="2022-01-06T20:07:22.098104Z">0.2</Position>
+          
+          <Position dataItemId="zpm" name="zMachine" sequence="958630" subType="ACTUAL" timestamp="2022-01-06T20:07:24.147332Z">0</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957674" subType="ACTUAL" timestamp="2022-01-06T19:56:04.268698Z">-15.8866</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957678" subType="ACTUAL" timestamp="2022-01-06T19:56:06.399689Z">-18.487101</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957683" subType="ACTUAL" timestamp="2022-01-06T19:56:08.561858Z">-14.4355</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957689" subType="ACTUAL" timestamp="2022-01-06T19:56:10.85625Z">-14.1485</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957694" subType="ACTUAL" timestamp="2022-01-06T19:56:13.021292Z">-17.073</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957700" subType="ACTUAL" timestamp="2022-01-06T19:56:15.204872Z">-18.337601</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957707" subType="ACTUAL" timestamp="2022-01-06T19:56:17.419107Z">-13.1004</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957713" subType="ACTUAL" timestamp="2022-01-06T19:56:19.662597Z">-15.5017</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957717" subType="ACTUAL" timestamp="2022-01-06T19:56:21.849238Z">-18.249599</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957722" subType="ACTUAL" timestamp="2022-01-06T19:56:24.042395Z">-13.9545</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957729" subType="ACTUAL" timestamp="2022-01-06T19:56:26.311385Z">-14.0475</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957734" subType="ACTUAL" timestamp="2022-01-06T19:56:28.520019Z">-16.9701</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957739" subType="ACTUAL" timestamp="2022-01-06T19:56:30.71793Z">-18.0954</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957746" subType="ACTUAL" timestamp="2022-01-06T19:56:32.901214Z">-13.0327</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957753" subType="ACTUAL" timestamp="2022-01-06T19:56:35.095133Z">-15.341</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957757" subType="ACTUAL" timestamp="2022-01-06T19:56:37.307334Z">-18.0453</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957763" subType="ACTUAL" timestamp="2022-01-06T19:56:39.540615Z">-14.0771</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957770" subType="ACTUAL" timestamp="2022-01-06T19:56:41.71895Z">-13.9904</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957776" subType="ACTUAL" timestamp="2022-01-06T19:56:43.963575Z">-16.746401</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957781" subType="ACTUAL" timestamp="2022-01-06T19:56:46.089917Z">-18.2052</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957787" subType="ACTUAL" timestamp="2022-01-06T19:56:48.226786Z">-13.0326</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957794" subType="ACTUAL" timestamp="2022-01-06T19:56:50.394483Z">-15.3283</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957799" subType="ACTUAL" timestamp="2022-01-06T19:56:52.5918Z">-18.054001</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957806" subType="ACTUAL" timestamp="2022-01-06T19:56:54.754513Z">-14.033</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957813" subType="ACTUAL" timestamp="2022-01-06T19:56:56.917644Z">-14.0834</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957819" subType="ACTUAL" timestamp="2022-01-06T19:56:59.156538Z">-16.893</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957824" subType="ACTUAL" timestamp="2022-01-06T19:57:01.384992Z">-17.9021</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957830" subType="ACTUAL" timestamp="2022-01-06T19:57:03.726003Z">-18.357</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957838" subType="ACTUAL" timestamp="2022-01-06T19:57:05.838027Z">-17.8281</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957844" subType="ACTUAL" timestamp="2022-01-06T19:57:08.061464Z">-17.238199</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957849" subType="ACTUAL" timestamp="2022-01-06T19:57:10.198164Z">-17.1931</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957854" subType="ACTUAL" timestamp="2022-01-06T19:57:12.44412Z">-17.856899</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957862" subType="ACTUAL" timestamp="2022-01-06T19:57:14.690238Z">-18.5446</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957869" subType="ACTUAL" timestamp="2022-01-06T19:57:16.772666Z">-17.7693</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957875" subType="ACTUAL" timestamp="2022-01-06T19:57:18.985729Z">-17.064501</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957881" subType="ACTUAL" timestamp="2022-01-06T19:57:21.254552Z">-18.0898</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957887" subType="ACTUAL" timestamp="2022-01-06T19:57:23.498174Z">-18.2841</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957895" subType="ACTUAL" timestamp="2022-01-06T19:57:25.849835Z">-17.251301</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957900" subType="ACTUAL" timestamp="2022-01-06T19:57:28.146601Z">-17.1656</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957907" subType="ACTUAL" timestamp="2022-01-06T19:57:30.304318Z">-17.8979</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957913" subType="ACTUAL" timestamp="2022-01-06T19:57:32.441323Z">-17.902201</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957921" subType="ACTUAL" timestamp="2022-01-06T19:57:34.639575Z">-16.8451</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957927" subType="ACTUAL" timestamp="2022-01-06T19:57:36.913454Z">-17.498301</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957932" subType="ACTUAL" timestamp="2022-01-06T19:57:39.100622Z">-17.576</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957937" subType="ACTUAL" timestamp="2022-01-06T19:57:41.23202Z">-17.417601</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957943" subType="ACTUAL" timestamp="2022-01-06T19:57:43.462875Z">-17.150801</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957951" subType="ACTUAL" timestamp="2022-01-06T19:57:45.792936Z">-17.4104</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957957" subType="ACTUAL" timestamp="2022-01-06T19:57:47.97736Z">-17.1738</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957963" subType="ACTUAL" timestamp="2022-01-06T19:57:50.144769Z">-17.194099</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957969" subType="ACTUAL" timestamp="2022-01-06T19:57:52.312168Z">-17.2829</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957977" subType="ACTUAL" timestamp="2022-01-06T19:57:54.515755Z">-16.0075</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957983" subType="ACTUAL" timestamp="2022-01-06T19:57:56.698378Z">-13.3871</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957989" subType="ACTUAL" timestamp="2022-01-06T19:57:58.939346Z">-16.070299</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="957996" subType="ACTUAL" timestamp="2022-01-06T19:58:01.17388Z">-15.4534</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958001" subType="ACTUAL" timestamp="2022-01-06T19:58:03.300417Z">-15.5655</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958008" subType="ACTUAL" timestamp="2022-01-06T19:58:05.427456Z">-15.6653</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958015" subType="ACTUAL" timestamp="2022-01-06T19:58:07.636318Z">-15.7482</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958021" subType="ACTUAL" timestamp="2022-01-06T19:58:09.804015Z">-15.5065</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958026" subType="ACTUAL" timestamp="2022-01-06T19:58:12.03718Z">-15.3927</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958032" subType="ACTUAL" timestamp="2022-01-06T19:58:14.238567Z">-15.2483</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958038" subType="ACTUAL" timestamp="2022-01-06T19:58:16.466368Z">-15.4519</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958042" subType="ACTUAL" timestamp="2022-01-06T19:58:18.684252Z">-15.8127</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958046" subType="ACTUAL" timestamp="2022-01-06T19:58:20.840914Z">-15.8421</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958053" subType="ACTUAL" timestamp="2022-01-06T19:58:23.024527Z">-15.0693</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958058" subType="ACTUAL" timestamp="2022-01-06T19:58:25.207852Z">-15.9528</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958065" subType="ACTUAL" timestamp="2022-01-06T19:58:27.472002Z">-16.0853</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958072" subType="ACTUAL" timestamp="2022-01-06T19:58:29.781639Z">-14.896</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958078" subType="ACTUAL" timestamp="2022-01-06T19:58:31.994685Z">-14.9789</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958084" subType="ACTUAL" timestamp="2022-01-06T19:58:34.283767Z">-14.6531</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958092" subType="ACTUAL" timestamp="2022-01-06T19:58:36.441431Z">-14.7479</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958099" subType="ACTUAL" timestamp="2022-01-06T19:58:38.670133Z">-14.4888</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958106" subType="ACTUAL" timestamp="2022-01-06T19:58:40.747689Z">-14.6269</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958113" subType="ACTUAL" timestamp="2022-01-06T19:58:43.048382Z">-14.385</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958120" subType="ACTUAL" timestamp="2022-01-06T19:58:45.337548Z">-14.2909</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958125" subType="ACTUAL" timestamp="2022-01-06T19:58:47.489273Z">-14.2247</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958132" subType="ACTUAL" timestamp="2022-01-06T19:58:49.717879Z">-13.0669</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958138" subType="ACTUAL" timestamp="2022-01-06T19:58:51.915725Z">-13.1061</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958145" subType="ACTUAL" timestamp="2022-01-06T19:58:54.139593Z">-13.6854</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958153" subType="ACTUAL" timestamp="2022-01-06T19:58:56.36377Z">-13.0368</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958160" subType="ACTUAL" timestamp="2022-01-06T19:58:58.732062Z">-13.4728</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958167" subType="ACTUAL" timestamp="2022-01-06T19:59:00.90457Z">-13.4845</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958174" subType="ACTUAL" timestamp="2022-01-06T19:59:03.13565Z">-13.1037</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958181" subType="ACTUAL" timestamp="2022-01-06T19:59:05.313237Z">-13.045</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958187" subType="ACTUAL" timestamp="2022-01-06T19:59:07.480505Z">-13.3473</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958193" subType="ACTUAL" timestamp="2022-01-06T19:59:09.683136Z">-13.4201</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958199" subType="ACTUAL" timestamp="2022-01-06T19:59:11.911088Z">-13.38</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958203" subType="ACTUAL" timestamp="2022-01-06T19:59:14.064636Z">-13.2216</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958211" subType="ACTUAL" timestamp="2022-01-06T19:59:16.267501Z">-13.0326</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958217" subType="ACTUAL" timestamp="2022-01-06T19:59:18.581825Z">-13.3615</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958224" subType="ACTUAL" timestamp="2022-01-06T19:59:20.758652Z">-13.0327</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958230" subType="ACTUAL" timestamp="2022-01-06T19:59:22.834723Z">-13.3491</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958237" subType="ACTUAL" timestamp="2022-01-06T19:59:24.875512Z">-13.1316</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958244" subType="ACTUAL" timestamp="2022-01-06T19:59:27.22057Z">-13.2156</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958251" subType="ACTUAL" timestamp="2022-01-06T19:59:29.561563Z">-13.0334</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958257" subType="ACTUAL" timestamp="2022-01-06T19:59:31.693748Z">-13.0658</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958263" subType="ACTUAL" timestamp="2022-01-06T19:59:33.741278Z">-13.1254</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958270" subType="ACTUAL" timestamp="2022-01-06T19:59:35.848446Z">-13.1767</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958275" subType="ACTUAL" timestamp="2022-01-06T19:59:38.051546Z">-13.0733</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958281" subType="ACTUAL" timestamp="2022-01-06T19:59:40.209652Z">-13.4019</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958288" subType="ACTUAL" timestamp="2022-01-06T19:59:42.25138Z">-14.5691</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958295" subType="ACTUAL" timestamp="2022-01-06T19:59:44.416035Z">-14.5711</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958303" subType="ACTUAL" timestamp="2022-01-06T19:59:46.488169Z">-16.24</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958309" subType="ACTUAL" timestamp="2022-01-06T19:59:48.666806Z">-16.868799</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958316" subType="ACTUAL" timestamp="2022-01-06T19:59:50.73953Z">-18.692499</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958323" subType="ACTUAL" timestamp="2022-01-06T19:59:52.857603Z">-14.1717</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958331" subType="ACTUAL" timestamp="2022-01-06T19:59:54.975401Z">-14.535</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958338" subType="ACTUAL" timestamp="2022-01-06T19:59:57.109535Z">-16.1422</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958343" subType="ACTUAL" timestamp="2022-01-06T19:59:59.293879Z">-18.406601</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958349" subType="ACTUAL" timestamp="2022-01-06T20:00:01.431849Z">-16.201099</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958356" subType="ACTUAL" timestamp="2022-01-06T20:00:03.355007Z">-13.9596</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958364" subType="ACTUAL" timestamp="2022-01-06T20:00:05.319196Z">-15.9792</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958370" subType="ACTUAL" timestamp="2022-01-06T20:00:07.257238Z">-17.615</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958376" subType="ACTUAL" timestamp="2022-01-06T20:00:09.179965Z">-18.974899</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958382" subType="ACTUAL" timestamp="2022-01-06T20:00:11.117978Z">-13.467</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958389" subType="ACTUAL" timestamp="2022-01-06T20:00:13.021974Z">-14.9335</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958396" subType="ACTUAL" timestamp="2022-01-06T20:00:14.965314Z">-16.801901</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958402" subType="ACTUAL" timestamp="2022-01-06T20:00:16.914002Z">-18.792601</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958408" subType="ACTUAL" timestamp="2022-01-06T20:00:18.867259Z">-14.3368</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958414" subType="ACTUAL" timestamp="2022-01-06T20:00:20.789927Z">-14.3148</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958420" subType="ACTUAL" timestamp="2022-01-06T20:00:22.727799Z">-16.0609</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958426" subType="ACTUAL" timestamp="2022-01-06T20:00:24.655452Z">-18.202101</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958432" subType="ACTUAL" timestamp="2022-01-06T20:00:26.624719Z">-17.308901</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958439" subType="ACTUAL" timestamp="2022-01-06T20:00:28.599967Z">-13.5718</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958446" subType="ACTUAL" timestamp="2022-01-06T20:00:30.512909Z">-15.6577</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958453" subType="ACTUAL" timestamp="2022-01-06T20:00:32.451115Z">-17.5394</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958457" subType="ACTUAL" timestamp="2022-01-06T20:00:34.383672Z">-18.9781</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958464" subType="ACTUAL" timestamp="2022-01-06T20:00:36.348011Z">-13.4325</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958471" subType="ACTUAL" timestamp="2022-01-06T20:00:38.231011Z">-14.893</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958477" subType="ACTUAL" timestamp="2022-01-06T20:00:40.143586Z">-16.796301</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958483" subType="ACTUAL" timestamp="2022-01-06T20:00:41.774235Z">-17.754601</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958491" subType="ACTUAL" timestamp="2022-01-06T20:00:43.7727Z">-17.6996</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958498" subType="ACTUAL" timestamp="2022-01-06T20:00:45.690686Z">-13.2055</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958502" subType="ACTUAL" timestamp="2022-01-06T20:00:47.608007Z">-5.5677</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958506" subType="ACTUAL" timestamp="2022-01-06T20:00:49.530443Z">-3.8059</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958515" subType="ACTUAL" timestamp="2022-01-06T20:00:59.342139Z">-5.0843</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958553" subType="ACTUAL" timestamp="2022-01-06T20:03:37.147643Z">-5</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958555" subType="ACTUAL" timestamp="2022-01-06T20:03:39.103732Z">-5.0843</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958563" subType="ACTUAL" timestamp="2022-01-06T20:03:46.857581Z">-1.4576</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958565" subType="ACTUAL" timestamp="2022-01-06T20:03:48.784218Z">0</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958592" subType="ACTUAL" timestamp="2022-01-06T20:05:08.676404Z">0.0001</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958594" subType="ACTUAL" timestamp="2022-01-06T20:05:10.685558Z">0</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958598" subType="ACTUAL" timestamp="2022-01-06T20:05:21.046346Z">UNAVAILABLE</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958600" subType="ACTUAL" timestamp="2022-01-06T20:05:23.106376Z">0</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958651" subType="ACTUAL" timestamp="2022-01-06T20:09:26.556727Z">-2.3626</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958653" subType="ACTUAL" timestamp="2022-01-06T20:09:28.626967Z">-7.2381</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958655" subType="ACTUAL" timestamp="2022-01-06T20:09:30.615246Z">-11.9111</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958657" subType="ACTUAL" timestamp="2022-01-06T20:09:32.593447Z">-15.9103</Position>
+          
+          <Position dataItemId="zpw" name="zWork" sequence="958660" subType="ACTUAL" timestamp="2022-01-06T20:09:34.516177Z">-16.25</Position>
+          
+        </Samples>
+        
+      </ComponentStream>
+      
+    </DeviceStream>
+    
+    <DeviceStream name="Agent" uuid="0b49a3a0-18ca-0139-8748-2cde48001122">
+      
+      <ComponentStream component="Adapter" name="192.168.1.103:7878" componentId="_2dc0bcd27a">
+        
+        <Events>
+          
+          <ConnectionStatus dataItemId="_2dc0bcd27a_connection_status" sequence="958533" timestamp="2024-02-18T00:18:08.877268Z">CLOSED</ConnectionStatus>
+          
+          <ConnectionStatus dataItemId="_2dc0bcd27a_connection_status" sequence="958534" timestamp="2024-02-18T00:18:09.877816Z">LISTENING</ConnectionStatus>
+          
+          <ConnectionStatus dataItemId="_2dc0bcd27a_connection_status" sequence="958535" timestamp="2024-02-18T00:18:09.879736Z">ESTABLISHED</ConnectionStatus>
+          
+        </Events>
+        
+      </ComponentStream>
+      
+      <ComponentStream component="Adapter" name="192.168.1.102:7878" componentId="_7800863039">
+        
+        <Samples>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957673" statistic="AVERAGE" timestamp="2024-02-18T00:12:43.081779Z">2.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957696" statistic="AVERAGE" timestamp="2024-02-18T00:12:53.082259Z">2.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957723" statistic="AVERAGE" timestamp="2024-02-18T00:13:03.082777Z">2.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957750" statistic="AVERAGE" timestamp="2024-02-18T00:13:13.083294Z">2.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957775" statistic="AVERAGE" timestamp="2024-02-18T00:13:23.083875Z">2.4</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957804" statistic="AVERAGE" timestamp="2024-02-18T00:13:33.084424Z">2.8</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957832" statistic="AVERAGE" timestamp="2024-02-18T00:13:43.084996Z">2.7</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957860" statistic="AVERAGE" timestamp="2024-02-18T00:13:53.085499Z">2.7</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957890" statistic="AVERAGE" timestamp="2024-02-18T00:14:03.085986Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957920" statistic="AVERAGE" timestamp="2024-02-18T00:14:13.086469Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957946" statistic="AVERAGE" timestamp="2024-02-18T00:14:23.086999Z">2.5</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="957976" statistic="AVERAGE" timestamp="2024-02-18T00:14:33.087471Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958004" statistic="AVERAGE" timestamp="2024-02-18T00:14:43.087953Z">2.7</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958033" statistic="AVERAGE" timestamp="2024-02-18T00:14:53.088437Z">2.8</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958055" statistic="AVERAGE" timestamp="2024-02-18T00:15:03.088919Z">2.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958085" statistic="AVERAGE" timestamp="2024-02-18T00:15:13.089374Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958116" statistic="AVERAGE" timestamp="2024-02-18T00:15:23.089844Z">3</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958146" statistic="AVERAGE" timestamp="2024-02-18T00:15:33.090385Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958177" statistic="AVERAGE" timestamp="2024-02-18T00:15:43.090882Z">3</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958204" statistic="AVERAGE" timestamp="2024-02-18T00:15:53.091409Z">2.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958234" statistic="AVERAGE" timestamp="2024-02-18T00:16:03.091893Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958264" statistic="AVERAGE" timestamp="2024-02-18T00:16:13.09238Z">2.9</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958296" statistic="AVERAGE" timestamp="2024-02-18T00:16:23.09289Z">3.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958328" statistic="AVERAGE" timestamp="2024-02-18T00:16:33.093402Z">3.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958360" statistic="AVERAGE" timestamp="2024-02-18T00:16:43.093892Z">3.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958393" statistic="AVERAGE" timestamp="2024-02-18T00:16:53.094402Z">3.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958425" statistic="AVERAGE" timestamp="2024-02-18T00:17:03.094878Z">3.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958458" statistic="AVERAGE" timestamp="2024-02-18T00:17:13.095401Z">3.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958493" statistic="AVERAGE" timestamp="2024-02-18T00:17:23.095866Z">3.4</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958509" statistic="AVERAGE" timestamp="2024-02-18T00:17:33.096344Z">1.5</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958520" statistic="AVERAGE" timestamp="2024-02-18T00:17:43.096872Z">1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958526" statistic="AVERAGE" timestamp="2024-02-18T00:17:53.097461Z">0.5</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958532" statistic="AVERAGE" timestamp="2024-02-18T00:18:03.097957Z">0.5</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958536" statistic="AVERAGE" timestamp="2024-02-18T00:18:13.098465Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958537" statistic="AVERAGE" timestamp="2024-02-18T00:18:23.099114Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958540" statistic="AVERAGE" timestamp="2024-02-18T00:18:33.099693Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958542" statistic="AVERAGE" timestamp="2024-02-18T00:18:43.100183Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958543" statistic="AVERAGE" timestamp="2024-02-18T00:18:53.10064Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958544" statistic="AVERAGE" timestamp="2024-02-18T00:19:03.101185Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958545" statistic="AVERAGE" timestamp="2024-02-18T00:19:13.10176Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958546" statistic="AVERAGE" timestamp="2024-02-18T00:19:23.102319Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958548" statistic="AVERAGE" timestamp="2024-02-18T00:19:33.102879Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958549" statistic="AVERAGE" timestamp="2024-02-18T00:19:43.103441Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958550" statistic="AVERAGE" timestamp="2024-02-18T00:19:53.104007Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958551" statistic="AVERAGE" timestamp="2024-02-18T00:20:03.10458Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958552" statistic="AVERAGE" timestamp="2024-02-18T00:20:13.105189Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958560" statistic="AVERAGE" timestamp="2024-02-18T00:20:23.105793Z">0.7</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958567" statistic="AVERAGE" timestamp="2024-02-18T00:20:33.10635Z">0.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958570" statistic="AVERAGE" timestamp="2024-02-18T00:20:43.106825Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958577" statistic="AVERAGE" timestamp="2024-02-18T00:20:53.107343Z">0.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958580" statistic="AVERAGE" timestamp="2024-02-18T00:21:03.107892Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958587" statistic="AVERAGE" timestamp="2024-02-18T00:21:13.108412Z">0.6</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958588" statistic="AVERAGE" timestamp="2024-02-18T00:21:23.108878Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958589" statistic="AVERAGE" timestamp="2024-02-18T00:21:33.109403Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958590" statistic="AVERAGE" timestamp="2024-02-18T00:21:43.112051Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958595" statistic="AVERAGE" timestamp="2024-02-18T00:21:53.112651Z">0.4</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958601" statistic="AVERAGE" timestamp="2024-02-18T00:22:03.113312Z">0.5</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958604" statistic="AVERAGE" timestamp="2024-02-18T00:22:13.113903Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958605" statistic="AVERAGE" timestamp="2024-02-18T00:22:23.114438Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958607" statistic="AVERAGE" timestamp="2024-02-18T00:22:33.11505Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958609" statistic="AVERAGE" timestamp="2024-02-18T00:22:43.115592Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958611" statistic="AVERAGE" timestamp="2024-02-18T00:22:53.116135Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958613" statistic="AVERAGE" timestamp="2024-02-18T00:23:03.116729Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958616" statistic="AVERAGE" timestamp="2024-02-18T00:23:13.117316Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958618" statistic="AVERAGE" timestamp="2024-02-18T00:23:23.117875Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958619" statistic="AVERAGE" timestamp="2024-02-18T00:23:33.118388Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958622" statistic="AVERAGE" timestamp="2024-02-18T00:23:43.118911Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958624" statistic="AVERAGE" timestamp="2024-02-18T00:23:53.119452Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958629" statistic="AVERAGE" timestamp="2024-02-18T00:24:03.120009Z">0.4</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958631" statistic="AVERAGE" timestamp="2024-02-18T00:24:13.120519Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958635" statistic="AVERAGE" timestamp="2024-02-18T00:24:23.12101Z">0.3</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958637" statistic="AVERAGE" timestamp="2024-02-18T00:24:33.12168Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958638" statistic="AVERAGE" timestamp="2024-02-18T00:24:43.122262Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958641" statistic="AVERAGE" timestamp="2024-02-18T00:24:53.122851Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958642" statistic="AVERAGE" timestamp="2024-02-18T00:25:03.12349Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958643" statistic="AVERAGE" timestamp="2024-02-18T00:25:13.123897Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958644" statistic="AVERAGE" timestamp="2024-02-18T00:25:23.124416Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958645" statistic="AVERAGE" timestamp="2024-02-18T00:25:33.12498Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958648" statistic="AVERAGE" timestamp="2024-02-18T00:25:43.125521Z">0.2</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958649" statistic="AVERAGE" timestamp="2024-02-18T00:25:53.126102Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958650" statistic="AVERAGE" timestamp="2024-02-18T00:26:03.126618Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958659" statistic="AVERAGE" timestamp="2024-02-18T00:26:13.127141Z">0.8</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958661" statistic="AVERAGE" timestamp="2024-02-18T00:26:23.127544Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958663" statistic="AVERAGE" timestamp="2024-02-18T00:26:33.128036Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958665" statistic="AVERAGE" timestamp="2024-02-18T00:26:43.1286Z">0.1</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958666" statistic="AVERAGE" timestamp="2024-02-18T00:26:53.129175Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958667" statistic="AVERAGE" timestamp="2024-02-18T00:27:03.129666Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958668" statistic="AVERAGE" timestamp="2024-02-18T00:27:13.130202Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958669" statistic="AVERAGE" timestamp="2024-02-18T00:27:23.130811Z">0</ObservationUpdateRate>
+          
+          <ObservationUpdateRate dataItemId="_7800863039_observation_update_rate" duration="10" sequence="958670" statistic="AVERAGE" timestamp="2024-02-18T00:27:33.131452Z">0</ObservationUpdateRate>
+          
+        </Samples>
+        
+      </ComponentStream>
+      
+    </DeviceStream>
+    
+  </Streams>
+  
+</MTConnectStreams>

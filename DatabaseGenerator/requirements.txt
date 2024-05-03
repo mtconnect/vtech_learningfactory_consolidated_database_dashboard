@@ -1,0 +1,8 @@
+mysql-connector-python
+requests
+tk
+sqlite3
+xml
+time
+sched
+io

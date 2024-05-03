@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/styles/Streams.xsl"?>
+<MTConnectStreams xmlns:m="urn:mtconnect.org:MTConnectStreams:1.5" xmlns="urn:mtconnect.org:MTConnectStreams:1.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mtconnect.org:MTConnectStreams:1.5 http://schemas.mtconnect.org/schemas/MTConnectStreams_1.5.xsd">
+  <Header creationTime="2024-02-27T23:31:02Z" sender="f170D12827" instanceId="1707347978" version="1.4.0.12" bufferSize="131072" nextSequence="22405783" firstSequence="22405683" lastSequence="22536754"/>
+  <Streams>
+    <DeviceStream name="f170" uuid="D12827">
+      <ComponentStream component="Enclosure" name="Oven" componentId="oven">
+        <Samples>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:33.160116Z" name="Oven1Current" sequence="22405691" subType="ACTUAL">0.2412</Amperage>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:34.393219Z" name="Oven1Current" sequence="22405704" subType="ACTUAL">2.545199871</Amperage>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:35.673012Z" name="Oven1Current" sequence="22405716" subType="ACTUAL">2.930399895</Amperage>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:36.970040Z" name="Oven1Current" sequence="22405731" subType="ACTUAL">2.970000029</Amperage>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:38.178242Z" name="Oven1Current" sequence="22405746" subType="ACTUAL">2.91960001</Amperage>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:39.408253Z" name="Oven1Current" sequence="22405760" subType="ACTUAL">0.2375999987</Amperage>
+          <Amperage dataItemId="oven1CurrentAct" timestamp="2024-02-27T19:56:40.715919Z" name="Oven1Current" sequence="22405771" subType="ACTUAL">0.2699999809</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:33.160116Z" name="Oven1CurrentCom" sequence="22405686" subType="TARGET">0.2556000054</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:34.393219Z" name="Oven1CurrentCom" sequence="22405699" subType="TARGET">2.937599897</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:35.673012Z" name="Oven1CurrentCom" sequence="22405710" subType="TARGET">2.926800013</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:36.970040Z" name="Oven1CurrentCom" sequence="22405724" subType="TARGET">2.937599897</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:38.178242Z" name="Oven1CurrentCom" sequence="22405740" subType="TARGET">2.887199879</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:39.408253Z" name="Oven1CurrentCom" sequence="22405754" subType="TARGET">0.2412</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:40.715919Z" name="Oven1CurrentCom" sequence="22405767" subType="TARGET">0.2375999987</Amperage>
+          <Amperage dataItemId="oven1CurrentCom" timestamp="2024-02-27T19:56:41.992802Z" name="Oven1CurrentCom" sequence="22405778" subType="TARGET">0.2628000081</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:33.160116Z" name="Oven2Current" sequence="22405692" subType="ACTUAL">0.05759999901</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:34.393219Z" name="Oven2Current" sequence="22405705" subType="ACTUAL">2.447999954</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:35.673012Z" name="Oven2Current" sequence="22405717" subType="ACTUAL">2.915999889</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:36.970040Z" name="Oven2Current" sequence="22405732" subType="ACTUAL">2.894399881</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:38.178242Z" name="Oven2Current" sequence="22405747" subType="ACTUAL">2.876399994</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:39.408253Z" name="Oven2Current" sequence="22405761" subType="ACTUAL">0.05399999768</Amperage>
+          <Amperage dataItemId="oven2CurrentAct" timestamp="2024-02-27T19:56:40.715919Z" name="Oven2Current" sequence="22405772" subType="ACTUAL">0.0719999969</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:33.160116Z" name="Oven2CurrentCom" sequence="22405687" subType="TARGET">0.06120000035</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:34.393219Z" name="Oven2CurrentCom" sequence="22405700" subType="TARGET">2.908799887</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:35.673012Z" name="Oven2CurrentCom" sequence="22405711" subType="TARGET">2.923199892</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:36.970040Z" name="Oven2CurrentCom" sequence="22405725" subType="TARGET">2.894399881</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:38.178242Z" name="Oven2CurrentCom" sequence="22405741" subType="TARGET">2.91960001</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:39.408253Z" name="Oven2CurrentCom" sequence="22405755" subType="TARGET">0.0719999969</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:40.715919Z" name="Oven2CurrentCom" sequence="22405768" subType="TARGET">0.06839999557</Amperage>
+          <Amperage dataItemId="oven2CurrentCom" timestamp="2024-02-27T19:56:41.992802Z" name="Oven2CurrentCom" sequence="22405779" subType="TARGET">0.05040000007</Amperage>
+          <Voltage dataItemId="ovenACVoltage" timestamp="2024-02-27T19:56:34.393219Z" name="ovenACVoltage" sequence="22405693" subType="ALTERNATING">115.8160019</Voltage>
+          <Voltage dataItemId="ovenACVoltage" timestamp="2024-02-27T19:56:36.970040Z" name="ovenACVoltage" sequence="22405719" subType="ALTERNATING">115.9399948</Voltage>
+          <Voltage dataItemId="ovenACVoltage" timestamp="2024-02-27T19:56:38.178242Z" name="ovenACVoltage" sequence="22405734" subType="ALTERNATING">115.1959991</Voltage>
+          <Voltage dataItemId="ovenACVoltage" timestamp="2024-02-27T19:56:39.408253Z" name="ovenACVoltage" sequence="22405748" subType="ALTERNATING">117.923996</Voltage>
+          <Voltage dataItemId="ovenACVoltage" timestamp="2024-02-27T19:56:41.992802Z" name="ovenACVoltage" sequence="22405773" subType="ALTERNATING">118.1719971</Voltage>
+          <Temperature dataItemId="ovenAct" timestamp="2024-02-27T19:56:35.673012Z" name="OvenActualTemperature" sequence="22405718" subType="ACTUAL">79.40000153</Temperature>
+          <Temperature dataItemId="ovenAct" timestamp="2024-02-27T19:56:36.970040Z" name="OvenActualTemperature" sequence="22405733" subType="ACTUAL">79.09999847</Temperature>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:33.160116Z" name="OvenBlower1Current" sequence="22405684" subType="ACTUAL">0.1380960047</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:34.393219Z" name="OvenBlower1Current" sequence="22405697" subType="ACTUAL">0.1345680058</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:35.673012Z" name="OvenBlower1Current" sequence="22405708" subType="ACTUAL">0.1995839924</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:36.970040Z" name="OvenBlower1Current" sequence="22405722" subType="ACTUAL">0.1930319965</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:38.178242Z" name="OvenBlower1Current" sequence="22405738" subType="ACTUAL">0.1900079995</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:39.408253Z" name="OvenBlower1Current" sequence="22405752" subType="ACTUAL">0.1234799996</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:40.715919Z" name="OvenBlower1Current" sequence="22405765" subType="ACTUAL">0.1663199961</Amperage>
+          <Amperage dataItemId="ovenBlower1Current" timestamp="2024-02-27T19:56:41.992802Z" name="OvenBlower1Current" sequence="22405776" subType="ACTUAL">0.173375994</Amperage>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:34.393219Z" name="OvenBlower1Speed" sequence="22405695" subType="ACTUAL">1026.667114</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:35.673012Z" name="OvenBlower1Speed" sequence="22405706" subType="ACTUAL">1020.000488</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:36.970040Z" name="OvenBlower1Speed" sequence="22405720" subType="ACTUAL">986.6671143</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:38.178242Z" name="OvenBlower1Speed" sequence="22405736" subType="ACTUAL">960.0004883</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:39.408253Z" name="OvenBlower1Speed" sequence="22405750" subType="ACTUAL">1006.667175</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:40.715919Z" name="OvenBlower1Speed" sequence="22405763" subType="ACTUAL">1033.333862</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower1Speed" timestamp="2024-02-27T19:56:41.992802Z" name="OvenBlower1Speed" sequence="22405774" subType="ACTUAL">1013.333801</RotaryVelocity>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:33.160116Z" name="OvenBlower2Current" sequence="22405685" subType="ACTUAL">0.1139039993</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:34.393219Z" name="OvenBlower2Current" sequence="22405698" subType="ACTUAL">0.2388959974</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:35.673012Z" name="OvenBlower2Current" sequence="22405709" subType="ACTUAL">0.2026080042</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:36.970040Z" name="OvenBlower2Current" sequence="22405723" subType="ACTUAL">0.08265599608</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:38.178242Z" name="OvenBlower2Current" sequence="22405739" subType="ACTUAL">0.2484720051</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:39.408253Z" name="OvenBlower2Current" sequence="22405753" subType="ACTUAL">0.09676799923</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:40.715919Z" name="OvenBlower2Current" sequence="22405766" subType="ACTUAL">0.1764000058</Amperage>
+          <Amperage dataItemId="ovenBlower2Current" timestamp="2024-02-27T19:56:41.992802Z" name="OvenBlower2Current" sequence="22405777" subType="ACTUAL">0.08366400003</Amperage>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:33.160116Z" name="OvenBlower2Speed" sequence="22405683" subType="ACTUAL">993.3338013</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:34.393219Z" name="OvenBlower2Speed" sequence="22405696" subType="ACTUAL">1053.333862</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:35.673012Z" name="OvenBlower2Speed" sequence="22405707" subType="ACTUAL">1033.333862</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:36.970040Z" name="OvenBlower2Speed" sequence="22405721" subType="ACTUAL">1000.000488</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:38.178242Z" name="OvenBlower2Speed" sequence="22405737" subType="ACTUAL">980.0004883</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:39.408253Z" name="OvenBlower2Speed" sequence="22405751" subType="ACTUAL">993.3338013</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:40.715919Z" name="OvenBlower2Speed" sequence="22405764" subType="ACTUAL">1026.667114</RotaryVelocity>
+          <RotaryVelocity dataItemId="ovenBlower2Speed" timestamp="2024-02-27T19:56:41.992802Z" name="OvenBlower2Speed" sequence="22405775" subType="ACTUAL">1046.667114</RotaryVelocity>
+          <PowerFactor dataItemId="ovenDCycle" timestamp="2024-02-27T19:56:34.393219Z" name="OvenDutyCycle" sequence="22405703">0.430962503</PowerFactor>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:33.160116Z" name="OvenHeater1CommandedTemperature" sequence="22405688" subType="COMMANDED">144.6829224</Temperature>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:35.673012Z" name="OvenHeater1CommandedTemperature" sequence="22405712" subType="COMMANDED">144.4878082</Temperature>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:36.970040Z" name="OvenHeater1CommandedTemperature" sequence="22405726" subType="COMMANDED">144.2926788</Temperature>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:38.178242Z" name="OvenHeater1CommandedTemperature" sequence="22405742" subType="COMMANDED">144.8780518</Temperature>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:39.408253Z" name="OvenHeater1CommandedTemperature" sequence="22405756" subType="COMMANDED">144.6829224</Temperature>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:40.715919Z" name="OvenHeater1CommandedTemperature" sequence="22405769" subType="COMMANDED">144.2926788</Temperature>
+          <Temperature dataItemId="ovenHeater1Com" timestamp="2024-02-27T19:56:41.992802Z" name="OvenHeater1CommandedTemperature" sequence="22405780" subType="COMMANDED">144.4878082</Temperature>
+          <Temperature dataItemId="ovenHeater2Com" timestamp="2024-02-27T19:56:33.160116Z" name="OvenHeater2CommandedTemperature" sequence="22405689" subType="COMMANDED">148.3902435</Temperature>
+          <Temperature dataItemId="ovenHeater2Com" timestamp="2024-02-27T19:56:35.673012Z" name="OvenHeater2CommandedTemperature" sequence="22405713" subType="COMMANDED">148.5853729</Temperature>
+          <Temperature dataItemId="ovenHeater2Com" timestamp="2024-02-27T19:56:36.970040Z" name="OvenHeater2CommandedTemperature" sequence="22405727" subType="COMMANDED">148.3902435</Temperature>
+          <Temperature dataItemId="ovenHeater2Com" timestamp="2024-02-27T19:56:38.178242Z" name="OvenHeater2CommandedTemperature" sequence="22405743" subType="COMMANDED">148.5853729</Temperature>
+          <Temperature dataItemId="ovenHeater2Com" timestamp="2024-02-27T19:56:40.715919Z" name="OvenHeater2CommandedTemperature" sequence="22405770" subType="COMMANDED">148.1951294</Temperature>
+          <Temperature dataItemId="ovenHeater2Com" timestamp="2024-02-27T19:56:41.992802Z" name="OvenHeater2CommandedTemperature" sequence="22405781" subType="COMMANDED">148.3902435</Temperature>
+        </Samples>
+      </ComponentStream>
+      <ComponentStream component="Electric" name="Power" componentId="power">
+        <Samples>
+          <Voltage dataItemId="controller33V" timestamp="2024-02-27T19:56:34.393219Z" name="Controller33V" sequence="22405694" subType="ACTUAL">3.316878796</Voltage>
+          <Voltage dataItemId="controller33V" timestamp="2024-02-27T19:56:38.178242Z" name="Controller33V" sequence="22405735" subType="ACTUAL">3.318490505</Voltage>
+          <Voltage dataItemId="controller33V" timestamp="2024-02-27T19:56:39.408253Z" name="Controller33V" sequence="22405749" subType="ACTUAL">3.316878796</Voltage>
+          <Voltage dataItemId="controller33V" timestamp="2024-02-27T19:56:40.715919Z" name="Controller33V" sequence="22405762" subType="ACTUAL">3.318490505</Voltage>
+          <Voltage dataItemId="system12V" timestamp="2024-02-27T19:56:33.160116Z" name="System12V" sequence="22405690" subType="ACTUAL">12.20072079</Voltage>
+          <Voltage dataItemId="system12V" timestamp="2024-02-27T19:56:34.393219Z" name="System12V" sequence="22405701" subType="ACTUAL">12.20475006</Voltage>
+          <Voltage dataItemId="system12V" timestamp="2024-02-27T19:56:35.673012Z" name="System12V" sequence="22405714" subType="ACTUAL">12.20072079</Voltage>
+          <Voltage dataItemId="system12V" timestamp="2024-02-27T19:56:36.970040Z" name="System12V" sequence="22405728" subType="ACTUAL">12.19669151</Voltage>
+          <Voltage dataItemId="system12V" timestamp="2024-02-27T19:56:39.408253Z" name="System12V" sequence="22405757" subType="ACTUAL">12.20475006</Voltage>
+          <Voltage dataItemId="system12V" timestamp="2024-02-27T19:56:41.992802Z" name="System12V" sequence="22405782" subType="ACTUAL">12.20072079</Voltage>
+          <Voltage dataItemId="system33V" timestamp="2024-02-27T19:56:34.393219Z" name="System33V" sequence="22405702" subType="ACTUAL">3.365229607</Voltage>
+          <Voltage dataItemId="system33V" timestamp="2024-02-27T19:56:36.970040Z" name="System33V" sequence="22405729" subType="ACTUAL">3.366841316</Voltage>
+          <Voltage dataItemId="system33V" timestamp="2024-02-27T19:56:38.178242Z" name="System33V" sequence="22405744" subType="ACTUAL">3.365229607</Voltage>
+          <Voltage dataItemId="system33V" timestamp="2024-02-27T19:56:39.408253Z" name="System33V" sequence="22405758" subType="ACTUAL">3.366841316</Voltage>
+        </Samples>
+      </ComponentStream>
+      <ComponentStream component="Linear" name="X" componentId="x1">
+        <Samples>
+          <Amperage dataItemId="x1Current" timestamp="2024-02-27T19:56:35.673012Z" name="MotorCurrent" sequence="22405715" subType="ACTUAL">0</Amperage>
+          <Amperage dataItemId="x1Current" timestamp="2024-02-27T19:56:39.408253Z" name="MotorCurrent" sequence="22405759" subType="ACTUAL">-0.003385140095</Amperage>
+        </Samples>
+      </ComponentStream>
+      <ComponentStream component="Linear" name="Z" componentId="z1">
+        <Samples>
+          <Amperage dataItemId="z1Current" timestamp="2024-02-27T19:56:36.970040Z" name="MotorCurrent" sequence="22405730" subType="ACTUAL">0.003385140095</Amperage>
+          <Amperage dataItemId="z1Current" timestamp="2024-02-27T19:56:38.178242Z" name="MotorCurrent" sequence="22405745" subType="ACTUAL">0</Amperage>
+        </Samples>
+      </ComponentStream>
+    </DeviceStream>
+  </Streams>
+</MTConnectStreams>
